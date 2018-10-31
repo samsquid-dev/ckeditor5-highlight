@@ -45,14 +45,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 're0Marker',
+					model: 'red50Marker',
 					class: 'marker-red-50',
 					title: 'Red 50 marker',
 					color: 'var(--ck-highlight-marker-red-50)',
 					type: 'marker'
 				},
 				{
-					model: 're0Pen',
+					model: 'red50Pen',
 					class: 'pen-red-50',
 					title: 'Red 50 pen',
 					color: 'var(--ck-highlight-marker-red-50)',
@@ -60,14 +60,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 're00Marker',
+					model: 'red100Marker',
 					class: 'marker-red-100',
 					title: 'Red 100 marker',
 					color: 'var(--ck-highlight-marker-red-100)',
 					type: 'marker'
 				},
 				{
-					model: 're00Pen',
+					model: 'red100Pen',
 					class: 'pen-red-100',
 					title: 'Red 100 pen',
 					color: 'var(--ck-highlight-marker-red-100)',
@@ -75,14 +75,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 're00Marker',
+					model: 'red200Marker',
 					class: 'marker-red-200',
 					title: 'Red 200 marker',
 					color: 'var(--ck-highlight-marker-red-200)',
 					type: 'marker'
 				},
 				{
-					model: 're00Pen',
+					model: 'red200Pen',
 					class: 'pen-red-200',
 					title: 'Red 200 pen',
 					color: 'var(--ck-highlight-marker-red-200)',
@@ -90,14 +90,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 're00Marker',
+					model: 'red300Marker',
 					class: 'marker-red-300',
 					title: 'Red 300 marker',
 					color: 'var(--ck-highlight-marker-red-300)',
 					type: 'marker'
 				},
 				{
-					model: 're00Pen',
+					model: 'red300Pen',
 					class: 'pen-red-300',
 					title: 'Red 300 pen',
 					color: 'var(--ck-highlight-marker-red-300)',
@@ -105,14 +105,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 're00Marker',
+					model: 'red400Marker',
 					class: 'marker-red-400',
 					title: 'Red 400 marker',
 					color: 'var(--ck-highlight-marker-red-400)',
 					type: 'marker'
 				},
 				{
-					model: 're00Pen',
+					model: 'red400Pen',
 					class: 'pen-red-400',
 					title: 'Red 400 pen',
 					color: 'var(--ck-highlight-marker-red-400)',
@@ -120,14 +120,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 're00Marker',
+					model: 'red500Marker',
 					class: 'marker-red-500',
 					title: 'Red 500 marker',
 					color: 'var(--ck-highlight-marker-red-500)',
 					type: 'marker'
 				},
 				{
-					model: 're00Pen',
+					model: 'red500Pen',
 					class: 'pen-red-500',
 					title: 'Red 500 pen',
 					color: 'var(--ck-highlight-marker-red-500)',
@@ -135,14 +135,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 're00Marker',
+					model: 'red600Marker',
 					class: 'marker-red-600',
 					title: 'Red 600 marker',
 					color: 'var(--ck-highlight-marker-red-600)',
 					type: 'marker'
 				},
 				{
-					model: 're00Pen',
+					model: 'red600Pen',
 					class: 'pen-red-600',
 					title: 'Red 600 pen',
 					color: 'var(--ck-highlight-marker-red-600)',
@@ -150,14 +150,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 're00Marker',
+					model: 'red700Marker',
 					class: 'marker-red-700',
 					title: 'Red 700 marker',
 					color: 'var(--ck-highlight-marker-red-700)',
 					type: 'marker'
 				},
 				{
-					model: 're00Pen',
+					model: 'red700Pen',
 					class: 'pen-red-700',
 					title: 'Red 700 pen',
 					color: 'var(--ck-highlight-marker-red-700)',
@@ -165,14 +165,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 're00Marker',
+					model: 'red800Marker',
 					class: 'marker-red-800',
 					title: 'Red 800 marker',
 					color: 'var(--ck-highlight-marker-red-800)',
 					type: 'marker'
 				},
 				{
-					model: 're00Pen',
+					model: 'red800Pen',
 					class: 'pen-red-800',
 					title: 'Red 800 pen',
 					color: 'var(--ck-highlight-marker-red-800)',
@@ -180,14 +180,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 're00Marker',
+					model: 'red900Marker',
 					class: 'marker-red-900',
 					title: 'Red 900 marker',
 					color: 'var(--ck-highlight-marker-red-900)',
 					type: 'marker'
 				},
 				{
-					model: 're00Pen',
+					model: 'red900Pen',
 					class: 'pen-red-900',
 					title: 'Red 900 pen',
 					color: 'var(--ck-highlight-marker-red-900)',
@@ -195,61 +195,61 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 're100Marker',
+					model: 'redA100Marker',
 					class: 'marker-red-a100',
-					title: 'Red a100 marker',
+					title: 'Red A100 marker',
 					color: 'var(--ck-highlight-marker-red-a100)',
 					type: 'marker'
 				},
 				{
-					model: 're100Pen',
+					model: 'redA100Pen',
 					class: 'pen-red-a100',
-					title: 'Red a100 pen',
+					title: 'Red A100 pen',
 					color: 'var(--ck-highlight-marker-red-a100)',
 					type: 'pen'
 				},
 			
 				{
-					model: 're200Marker',
+					model: 'redA200Marker',
 					class: 'marker-red-a200',
-					title: 'Red a200 marker',
+					title: 'Red A200 marker',
 					color: 'var(--ck-highlight-marker-red-a200)',
 					type: 'marker'
 				},
 				{
-					model: 're200Pen',
+					model: 'redA200Pen',
 					class: 'pen-red-a200',
-					title: 'Red a200 pen',
+					title: 'Red A200 pen',
 					color: 'var(--ck-highlight-marker-red-a200)',
 					type: 'pen'
 				},
 			
 				{
-					model: 're400Marker',
+					model: 'redA400Marker',
 					class: 'marker-red-a400',
-					title: 'Red a400 marker',
+					title: 'Red A400 marker',
 					color: 'var(--ck-highlight-marker-red-a400)',
 					type: 'marker'
 				},
 				{
-					model: 're400Pen',
+					model: 'redA400Pen',
 					class: 'pen-red-a400',
-					title: 'Red a400 pen',
+					title: 'Red A400 pen',
 					color: 'var(--ck-highlight-marker-red-a400)',
 					type: 'pen'
 				},
 			
 				{
-					model: 're700Marker',
+					model: 'redA700Marker',
 					class: 'marker-red-a700',
-					title: 'Red a700 marker',
+					title: 'Red A700 marker',
 					color: 'var(--ck-highlight-marker-red-a700)',
 					type: 'marker'
 				},
 				{
-					model: 're700Pen',
+					model: 'redA700Pen',
 					class: 'pen-red-a700',
-					title: 'Red a700 pen',
+					title: 'Red A700 pen',
 					color: 'var(--ck-highlight-marker-red-a700)',
 					type: 'pen'
 				},
@@ -270,14 +270,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'pin0Marker',
+					model: 'pink50Marker',
 					class: 'marker-pink-50',
 					title: 'Pink 50 marker',
 					color: 'var(--ck-highlight-marker-pink-50)',
 					type: 'marker'
 				},
 				{
-					model: 'pin0Pen',
+					model: 'pink50Pen',
 					class: 'pen-pink-50',
 					title: 'Pink 50 pen',
 					color: 'var(--ck-highlight-marker-pink-50)',
@@ -285,14 +285,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'pin00Marker',
+					model: 'pink100Marker',
 					class: 'marker-pink-100',
 					title: 'Pink 100 marker',
 					color: 'var(--ck-highlight-marker-pink-100)',
 					type: 'marker'
 				},
 				{
-					model: 'pin00Pen',
+					model: 'pink100Pen',
 					class: 'pen-pink-100',
 					title: 'Pink 100 pen',
 					color: 'var(--ck-highlight-marker-pink-100)',
@@ -300,14 +300,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'pin00Marker',
+					model: 'pink200Marker',
 					class: 'marker-pink-200',
 					title: 'Pink 200 marker',
 					color: 'var(--ck-highlight-marker-pink-200)',
 					type: 'marker'
 				},
 				{
-					model: 'pin00Pen',
+					model: 'pink200Pen',
 					class: 'pen-pink-200',
 					title: 'Pink 200 pen',
 					color: 'var(--ck-highlight-marker-pink-200)',
@@ -315,14 +315,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'pin00Marker',
+					model: 'pink300Marker',
 					class: 'marker-pink-300',
 					title: 'Pink 300 marker',
 					color: 'var(--ck-highlight-marker-pink-300)',
 					type: 'marker'
 				},
 				{
-					model: 'pin00Pen',
+					model: 'pink300Pen',
 					class: 'pen-pink-300',
 					title: 'Pink 300 pen',
 					color: 'var(--ck-highlight-marker-pink-300)',
@@ -330,14 +330,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'pin00Marker',
+					model: 'pink400Marker',
 					class: 'marker-pink-400',
 					title: 'Pink 400 marker',
 					color: 'var(--ck-highlight-marker-pink-400)',
 					type: 'marker'
 				},
 				{
-					model: 'pin00Pen',
+					model: 'pink400Pen',
 					class: 'pen-pink-400',
 					title: 'Pink 400 pen',
 					color: 'var(--ck-highlight-marker-pink-400)',
@@ -345,14 +345,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'pin00Marker',
+					model: 'pink500Marker',
 					class: 'marker-pink-500',
 					title: 'Pink 500 marker',
 					color: 'var(--ck-highlight-marker-pink-500)',
 					type: 'marker'
 				},
 				{
-					model: 'pin00Pen',
+					model: 'pink500Pen',
 					class: 'pen-pink-500',
 					title: 'Pink 500 pen',
 					color: 'var(--ck-highlight-marker-pink-500)',
@@ -360,14 +360,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'pin00Marker',
+					model: 'pink600Marker',
 					class: 'marker-pink-600',
 					title: 'Pink 600 marker',
 					color: 'var(--ck-highlight-marker-pink-600)',
 					type: 'marker'
 				},
 				{
-					model: 'pin00Pen',
+					model: 'pink600Pen',
 					class: 'pen-pink-600',
 					title: 'Pink 600 pen',
 					color: 'var(--ck-highlight-marker-pink-600)',
@@ -375,14 +375,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'pin00Marker',
+					model: 'pink700Marker',
 					class: 'marker-pink-700',
 					title: 'Pink 700 marker',
 					color: 'var(--ck-highlight-marker-pink-700)',
 					type: 'marker'
 				},
 				{
-					model: 'pin00Pen',
+					model: 'pink700Pen',
 					class: 'pen-pink-700',
 					title: 'Pink 700 pen',
 					color: 'var(--ck-highlight-marker-pink-700)',
@@ -390,14 +390,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'pin00Marker',
+					model: 'pink800Marker',
 					class: 'marker-pink-800',
 					title: 'Pink 800 marker',
 					color: 'var(--ck-highlight-marker-pink-800)',
 					type: 'marker'
 				},
 				{
-					model: 'pin00Pen',
+					model: 'pink800Pen',
 					class: 'pen-pink-800',
 					title: 'Pink 800 pen',
 					color: 'var(--ck-highlight-marker-pink-800)',
@@ -405,14 +405,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'pin00Marker',
+					model: 'pink900Marker',
 					class: 'marker-pink-900',
 					title: 'Pink 900 marker',
 					color: 'var(--ck-highlight-marker-pink-900)',
 					type: 'marker'
 				},
 				{
-					model: 'pin00Pen',
+					model: 'pink900Pen',
 					class: 'pen-pink-900',
 					title: 'Pink 900 pen',
 					color: 'var(--ck-highlight-marker-pink-900)',
@@ -420,61 +420,61 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'pin100Marker',
+					model: 'pinkA100Marker',
 					class: 'marker-pink-a100',
-					title: 'Pink a100 marker',
+					title: 'Pink A100 marker',
 					color: 'var(--ck-highlight-marker-pink-a100)',
 					type: 'marker'
 				},
 				{
-					model: 'pin100Pen',
+					model: 'pinkA100Pen',
 					class: 'pen-pink-a100',
-					title: 'Pink a100 pen',
+					title: 'Pink A100 pen',
 					color: 'var(--ck-highlight-marker-pink-a100)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'pin200Marker',
+					model: 'pinkA200Marker',
 					class: 'marker-pink-a200',
-					title: 'Pink a200 marker',
+					title: 'Pink A200 marker',
 					color: 'var(--ck-highlight-marker-pink-a200)',
 					type: 'marker'
 				},
 				{
-					model: 'pin200Pen',
+					model: 'pinkA200Pen',
 					class: 'pen-pink-a200',
-					title: 'Pink a200 pen',
+					title: 'Pink A200 pen',
 					color: 'var(--ck-highlight-marker-pink-a200)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'pin400Marker',
+					model: 'pinkA400Marker',
 					class: 'marker-pink-a400',
-					title: 'Pink a400 marker',
+					title: 'Pink A400 marker',
 					color: 'var(--ck-highlight-marker-pink-a400)',
 					type: 'marker'
 				},
 				{
-					model: 'pin400Pen',
+					model: 'pinkA400Pen',
 					class: 'pen-pink-a400',
-					title: 'Pink a400 pen',
+					title: 'Pink A400 pen',
 					color: 'var(--ck-highlight-marker-pink-a400)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'pin700Marker',
+					model: 'pinkA700Marker',
 					class: 'marker-pink-a700',
-					title: 'Pink a700 marker',
+					title: 'Pink A700 marker',
 					color: 'var(--ck-highlight-marker-pink-a700)',
 					type: 'marker'
 				},
 				{
-					model: 'pin700Pen',
+					model: 'pinkA700Pen',
 					class: 'pen-pink-a700',
-					title: 'Pink a700 pen',
+					title: 'Pink A700 pen',
 					color: 'var(--ck-highlight-marker-pink-a700)',
 					type: 'pen'
 				},
@@ -495,14 +495,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'purpl0Marker',
+					model: 'purple50Marker',
 					class: 'marker-purple-50',
 					title: 'Purple 50 marker',
 					color: 'var(--ck-highlight-marker-purple-50)',
 					type: 'marker'
 				},
 				{
-					model: 'purpl0Pen',
+					model: 'purple50Pen',
 					class: 'pen-purple-50',
 					title: 'Purple 50 pen',
 					color: 'var(--ck-highlight-marker-purple-50)',
@@ -510,14 +510,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'purpl00Marker',
+					model: 'purple100Marker',
 					class: 'marker-purple-100',
 					title: 'Purple 100 marker',
 					color: 'var(--ck-highlight-marker-purple-100)',
 					type: 'marker'
 				},
 				{
-					model: 'purpl00Pen',
+					model: 'purple100Pen',
 					class: 'pen-purple-100',
 					title: 'Purple 100 pen',
 					color: 'var(--ck-highlight-marker-purple-100)',
@@ -525,14 +525,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'purpl00Marker',
+					model: 'purple200Marker',
 					class: 'marker-purple-200',
 					title: 'Purple 200 marker',
 					color: 'var(--ck-highlight-marker-purple-200)',
 					type: 'marker'
 				},
 				{
-					model: 'purpl00Pen',
+					model: 'purple200Pen',
 					class: 'pen-purple-200',
 					title: 'Purple 200 pen',
 					color: 'var(--ck-highlight-marker-purple-200)',
@@ -540,14 +540,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'purpl00Marker',
+					model: 'purple300Marker',
 					class: 'marker-purple-300',
 					title: 'Purple 300 marker',
 					color: 'var(--ck-highlight-marker-purple-300)',
 					type: 'marker'
 				},
 				{
-					model: 'purpl00Pen',
+					model: 'purple300Pen',
 					class: 'pen-purple-300',
 					title: 'Purple 300 pen',
 					color: 'var(--ck-highlight-marker-purple-300)',
@@ -555,14 +555,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'purpl00Marker',
+					model: 'purple400Marker',
 					class: 'marker-purple-400',
 					title: 'Purple 400 marker',
 					color: 'var(--ck-highlight-marker-purple-400)',
 					type: 'marker'
 				},
 				{
-					model: 'purpl00Pen',
+					model: 'purple400Pen',
 					class: 'pen-purple-400',
 					title: 'Purple 400 pen',
 					color: 'var(--ck-highlight-marker-purple-400)',
@@ -570,14 +570,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'purpl00Marker',
+					model: 'purple500Marker',
 					class: 'marker-purple-500',
 					title: 'Purple 500 marker',
 					color: 'var(--ck-highlight-marker-purple-500)',
 					type: 'marker'
 				},
 				{
-					model: 'purpl00Pen',
+					model: 'purple500Pen',
 					class: 'pen-purple-500',
 					title: 'Purple 500 pen',
 					color: 'var(--ck-highlight-marker-purple-500)',
@@ -585,14 +585,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'purpl00Marker',
+					model: 'purple600Marker',
 					class: 'marker-purple-600',
 					title: 'Purple 600 marker',
 					color: 'var(--ck-highlight-marker-purple-600)',
 					type: 'marker'
 				},
 				{
-					model: 'purpl00Pen',
+					model: 'purple600Pen',
 					class: 'pen-purple-600',
 					title: 'Purple 600 pen',
 					color: 'var(--ck-highlight-marker-purple-600)',
@@ -600,14 +600,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'purpl00Marker',
+					model: 'purple700Marker',
 					class: 'marker-purple-700',
 					title: 'Purple 700 marker',
 					color: 'var(--ck-highlight-marker-purple-700)',
 					type: 'marker'
 				},
 				{
-					model: 'purpl00Pen',
+					model: 'purple700Pen',
 					class: 'pen-purple-700',
 					title: 'Purple 700 pen',
 					color: 'var(--ck-highlight-marker-purple-700)',
@@ -615,14 +615,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'purpl00Marker',
+					model: 'purple800Marker',
 					class: 'marker-purple-800',
 					title: 'Purple 800 marker',
 					color: 'var(--ck-highlight-marker-purple-800)',
 					type: 'marker'
 				},
 				{
-					model: 'purpl00Pen',
+					model: 'purple800Pen',
 					class: 'pen-purple-800',
 					title: 'Purple 800 pen',
 					color: 'var(--ck-highlight-marker-purple-800)',
@@ -630,14 +630,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'purpl00Marker',
+					model: 'purple900Marker',
 					class: 'marker-purple-900',
 					title: 'Purple 900 marker',
 					color: 'var(--ck-highlight-marker-purple-900)',
 					type: 'marker'
 				},
 				{
-					model: 'purpl00Pen',
+					model: 'purple900Pen',
 					class: 'pen-purple-900',
 					title: 'Purple 900 pen',
 					color: 'var(--ck-highlight-marker-purple-900)',
@@ -645,286 +645,286 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'purpl100Marker',
+					model: 'purpleA100Marker',
 					class: 'marker-purple-a100',
-					title: 'Purple a100 marker',
+					title: 'Purple A100 marker',
 					color: 'var(--ck-highlight-marker-purple-a100)',
 					type: 'marker'
 				},
 				{
-					model: 'purpl100Pen',
+					model: 'purpleA100Pen',
 					class: 'pen-purple-a100',
-					title: 'Purple a100 pen',
+					title: 'Purple A100 pen',
 					color: 'var(--ck-highlight-marker-purple-a100)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'purpl200Marker',
+					model: 'purpleA200Marker',
 					class: 'marker-purple-a200',
-					title: 'Purple a200 marker',
+					title: 'Purple A200 marker',
 					color: 'var(--ck-highlight-marker-purple-a200)',
 					type: 'marker'
 				},
 				{
-					model: 'purpl200Pen',
+					model: 'purpleA200Pen',
 					class: 'pen-purple-a200',
-					title: 'Purple a200 pen',
+					title: 'Purple A200 pen',
 					color: 'var(--ck-highlight-marker-purple-a200)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'purpl400Marker',
+					model: 'purpleA400Marker',
 					class: 'marker-purple-a400',
-					title: 'Purple a400 marker',
+					title: 'Purple A400 marker',
 					color: 'var(--ck-highlight-marker-purple-a400)',
 					type: 'marker'
 				},
 				{
-					model: 'purpl400Pen',
+					model: 'purpleA400Pen',
 					class: 'pen-purple-a400',
-					title: 'Purple a400 pen',
+					title: 'Purple A400 pen',
 					color: 'var(--ck-highlight-marker-purple-a400)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'purpl700Marker',
+					model: 'purpleA700Marker',
 					class: 'marker-purple-a700',
-					title: 'Purple a700 marker',
+					title: 'Purple A700 marker',
 					color: 'var(--ck-highlight-marker-purple-a700)',
 					type: 'marker'
 				},
 				{
-					model: 'purpl700Pen',
+					model: 'purpleA700Pen',
 					class: 'pen-purple-a700',
-					title: 'Purple a700 pen',
+					title: 'Purple A700 pen',
 					color: 'var(--ck-highlight-marker-purple-a700)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'deeurpleMarker',
+					model: 'deepPurpleMarker',
 					class: 'marker-deep-purple',
-					title: 'Deep purple marker',
+					title: 'Deep Purple marker',
 					color: 'var(--ck-highlight-marker-deep-purple)',
 					type: 'marker'
 				},
 				{
-					model: 'deeurplePen',
+					model: 'deepPurplePen',
 					class: 'pen-deep-purple',
-					title: 'Deep purple pen',
+					title: 'Deep Purple pen',
 					color: 'var(--ck-highlight-marker-deep-purple)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'deeurpl0Marker',
+					model: 'deepPurple50Marker',
 					class: 'marker-deep-purple-50',
-					title: 'Deep purple 50 marker',
+					title: 'Deep Purple 50 marker',
 					color: 'var(--ck-highlight-marker-deep-purple-50)',
 					type: 'marker'
 				},
 				{
-					model: 'deeurpl0Pen',
+					model: 'deepPurple50Pen',
 					class: 'pen-deep-purple-50',
-					title: 'Deep purple 50 pen',
+					title: 'Deep Purple 50 pen',
 					color: 'var(--ck-highlight-marker-deep-purple-50)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'deeurpl00Marker',
+					model: 'deepPurple100Marker',
 					class: 'marker-deep-purple-100',
-					title: 'Deep purple 100 marker',
+					title: 'Deep Purple 100 marker',
 					color: 'var(--ck-highlight-marker-deep-purple-100)',
 					type: 'marker'
 				},
 				{
-					model: 'deeurpl00Pen',
+					model: 'deepPurple100Pen',
 					class: 'pen-deep-purple-100',
-					title: 'Deep purple 100 pen',
+					title: 'Deep Purple 100 pen',
 					color: 'var(--ck-highlight-marker-deep-purple-100)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'deeurpl00Marker',
+					model: 'deepPurple200Marker',
 					class: 'marker-deep-purple-200',
-					title: 'Deep purple 200 marker',
+					title: 'Deep Purple 200 marker',
 					color: 'var(--ck-highlight-marker-deep-purple-200)',
 					type: 'marker'
 				},
 				{
-					model: 'deeurpl00Pen',
+					model: 'deepPurple200Pen',
 					class: 'pen-deep-purple-200',
-					title: 'Deep purple 200 pen',
+					title: 'Deep Purple 200 pen',
 					color: 'var(--ck-highlight-marker-deep-purple-200)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'deeurpl00Marker',
+					model: 'deepPurple300Marker',
 					class: 'marker-deep-purple-300',
-					title: 'Deep purple 300 marker',
+					title: 'Deep Purple 300 marker',
 					color: 'var(--ck-highlight-marker-deep-purple-300)',
 					type: 'marker'
 				},
 				{
-					model: 'deeurpl00Pen',
+					model: 'deepPurple300Pen',
 					class: 'pen-deep-purple-300',
-					title: 'Deep purple 300 pen',
+					title: 'Deep Purple 300 pen',
 					color: 'var(--ck-highlight-marker-deep-purple-300)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'deeurpl00Marker',
+					model: 'deepPurple400Marker',
 					class: 'marker-deep-purple-400',
-					title: 'Deep purple 400 marker',
+					title: 'Deep Purple 400 marker',
 					color: 'var(--ck-highlight-marker-deep-purple-400)',
 					type: 'marker'
 				},
 				{
-					model: 'deeurpl00Pen',
+					model: 'deepPurple400Pen',
 					class: 'pen-deep-purple-400',
-					title: 'Deep purple 400 pen',
+					title: 'Deep Purple 400 pen',
 					color: 'var(--ck-highlight-marker-deep-purple-400)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'deeurpl00Marker',
+					model: 'deepPurple500Marker',
 					class: 'marker-deep-purple-500',
-					title: 'Deep purple 500 marker',
+					title: 'Deep Purple 500 marker',
 					color: 'var(--ck-highlight-marker-deep-purple-500)',
 					type: 'marker'
 				},
 				{
-					model: 'deeurpl00Pen',
+					model: 'deepPurple500Pen',
 					class: 'pen-deep-purple-500',
-					title: 'Deep purple 500 pen',
+					title: 'Deep Purple 500 pen',
 					color: 'var(--ck-highlight-marker-deep-purple-500)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'deeurpl00Marker',
+					model: 'deepPurple600Marker',
 					class: 'marker-deep-purple-600',
-					title: 'Deep purple 600 marker',
+					title: 'Deep Purple 600 marker',
 					color: 'var(--ck-highlight-marker-deep-purple-600)',
 					type: 'marker'
 				},
 				{
-					model: 'deeurpl00Pen',
+					model: 'deepPurple600Pen',
 					class: 'pen-deep-purple-600',
-					title: 'Deep purple 600 pen',
+					title: 'Deep Purple 600 pen',
 					color: 'var(--ck-highlight-marker-deep-purple-600)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'deeurpl00Marker',
+					model: 'deepPurple700Marker',
 					class: 'marker-deep-purple-700',
-					title: 'Deep purple 700 marker',
+					title: 'Deep Purple 700 marker',
 					color: 'var(--ck-highlight-marker-deep-purple-700)',
 					type: 'marker'
 				},
 				{
-					model: 'deeurpl00Pen',
+					model: 'deepPurple700Pen',
 					class: 'pen-deep-purple-700',
-					title: 'Deep purple 700 pen',
+					title: 'Deep Purple 700 pen',
 					color: 'var(--ck-highlight-marker-deep-purple-700)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'deeurpl00Marker',
+					model: 'deepPurple800Marker',
 					class: 'marker-deep-purple-800',
-					title: 'Deep purple 800 marker',
+					title: 'Deep Purple 800 marker',
 					color: 'var(--ck-highlight-marker-deep-purple-800)',
 					type: 'marker'
 				},
 				{
-					model: 'deeurpl00Pen',
+					model: 'deepPurple800Pen',
 					class: 'pen-deep-purple-800',
-					title: 'Deep purple 800 pen',
+					title: 'Deep Purple 800 pen',
 					color: 'var(--ck-highlight-marker-deep-purple-800)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'deeurpl00Marker',
+					model: 'deepPurple900Marker',
 					class: 'marker-deep-purple-900',
-					title: 'Deep purple 900 marker',
+					title: 'Deep Purple 900 marker',
 					color: 'var(--ck-highlight-marker-deep-purple-900)',
 					type: 'marker'
 				},
 				{
-					model: 'deeurpl00Pen',
+					model: 'deepPurple900Pen',
 					class: 'pen-deep-purple-900',
-					title: 'Deep purple 900 pen',
+					title: 'Deep Purple 900 pen',
 					color: 'var(--ck-highlight-marker-deep-purple-900)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'deeurpl100Marker',
+					model: 'deepPurpleA100Marker',
 					class: 'marker-deep-purple-a100',
-					title: 'Deep purple a100 marker',
+					title: 'Deep Purple A100 marker',
 					color: 'var(--ck-highlight-marker-deep-purple-a100)',
 					type: 'marker'
 				},
 				{
-					model: 'deeurpl100Pen',
+					model: 'deepPurpleA100Pen',
 					class: 'pen-deep-purple-a100',
-					title: 'Deep purple a100 pen',
+					title: 'Deep Purple A100 pen',
 					color: 'var(--ck-highlight-marker-deep-purple-a100)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'deeurpl200Marker',
+					model: 'deepPurpleA200Marker',
 					class: 'marker-deep-purple-a200',
-					title: 'Deep purple a200 marker',
+					title: 'Deep Purple A200 marker',
 					color: 'var(--ck-highlight-marker-deep-purple-a200)',
 					type: 'marker'
 				},
 				{
-					model: 'deeurpl200Pen',
+					model: 'deepPurpleA200Pen',
 					class: 'pen-deep-purple-a200',
-					title: 'Deep purple a200 pen',
+					title: 'Deep Purple A200 pen',
 					color: 'var(--ck-highlight-marker-deep-purple-a200)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'deeurpl400Marker',
+					model: 'deepPurpleA400Marker',
 					class: 'marker-deep-purple-a400',
-					title: 'Deep purple a400 marker',
+					title: 'Deep Purple A400 marker',
 					color: 'var(--ck-highlight-marker-deep-purple-a400)',
 					type: 'marker'
 				},
 				{
-					model: 'deeurpl400Pen',
+					model: 'deepPurpleA400Pen',
 					class: 'pen-deep-purple-a400',
-					title: 'Deep purple a400 pen',
+					title: 'Deep Purple A400 pen',
 					color: 'var(--ck-highlight-marker-deep-purple-a400)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'deeurpl700Marker',
+					model: 'deepPurpleA700Marker',
 					class: 'marker-deep-purple-a700',
-					title: 'Deep purple a700 marker',
+					title: 'Deep Purple A700 marker',
 					color: 'var(--ck-highlight-marker-deep-purple-a700)',
 					type: 'marker'
 				},
 				{
-					model: 'deeurpl700Pen',
+					model: 'deepPurpleA700Pen',
 					class: 'pen-deep-purple-a700',
-					title: 'Deep purple a700 pen',
+					title: 'Deep Purple A700 pen',
 					color: 'var(--ck-highlight-marker-deep-purple-a700)',
 					type: 'pen'
 				},
@@ -945,14 +945,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'indig0Marker',
+					model: 'indigo50Marker',
 					class: 'marker-indigo-50',
 					title: 'Indigo 50 marker',
 					color: 'var(--ck-highlight-marker-indigo-50)',
 					type: 'marker'
 				},
 				{
-					model: 'indig0Pen',
+					model: 'indigo50Pen',
 					class: 'pen-indigo-50',
 					title: 'Indigo 50 pen',
 					color: 'var(--ck-highlight-marker-indigo-50)',
@@ -960,14 +960,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'indig00Marker',
+					model: 'indigo100Marker',
 					class: 'marker-indigo-100',
 					title: 'Indigo 100 marker',
 					color: 'var(--ck-highlight-marker-indigo-100)',
 					type: 'marker'
 				},
 				{
-					model: 'indig00Pen',
+					model: 'indigo100Pen',
 					class: 'pen-indigo-100',
 					title: 'Indigo 100 pen',
 					color: 'var(--ck-highlight-marker-indigo-100)',
@@ -975,14 +975,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'indig00Marker',
+					model: 'indigo200Marker',
 					class: 'marker-indigo-200',
 					title: 'Indigo 200 marker',
 					color: 'var(--ck-highlight-marker-indigo-200)',
 					type: 'marker'
 				},
 				{
-					model: 'indig00Pen',
+					model: 'indigo200Pen',
 					class: 'pen-indigo-200',
 					title: 'Indigo 200 pen',
 					color: 'var(--ck-highlight-marker-indigo-200)',
@@ -990,14 +990,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'indig00Marker',
+					model: 'indigo300Marker',
 					class: 'marker-indigo-300',
 					title: 'Indigo 300 marker',
 					color: 'var(--ck-highlight-marker-indigo-300)',
 					type: 'marker'
 				},
 				{
-					model: 'indig00Pen',
+					model: 'indigo300Pen',
 					class: 'pen-indigo-300',
 					title: 'Indigo 300 pen',
 					color: 'var(--ck-highlight-marker-indigo-300)',
@@ -1005,14 +1005,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'indig00Marker',
+					model: 'indigo400Marker',
 					class: 'marker-indigo-400',
 					title: 'Indigo 400 marker',
 					color: 'var(--ck-highlight-marker-indigo-400)',
 					type: 'marker'
 				},
 				{
-					model: 'indig00Pen',
+					model: 'indigo400Pen',
 					class: 'pen-indigo-400',
 					title: 'Indigo 400 pen',
 					color: 'var(--ck-highlight-marker-indigo-400)',
@@ -1020,14 +1020,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'indig00Marker',
+					model: 'indigo500Marker',
 					class: 'marker-indigo-500',
 					title: 'Indigo 500 marker',
 					color: 'var(--ck-highlight-marker-indigo-500)',
 					type: 'marker'
 				},
 				{
-					model: 'indig00Pen',
+					model: 'indigo500Pen',
 					class: 'pen-indigo-500',
 					title: 'Indigo 500 pen',
 					color: 'var(--ck-highlight-marker-indigo-500)',
@@ -1035,14 +1035,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'indig00Marker',
+					model: 'indigo600Marker',
 					class: 'marker-indigo-600',
 					title: 'Indigo 600 marker',
 					color: 'var(--ck-highlight-marker-indigo-600)',
 					type: 'marker'
 				},
 				{
-					model: 'indig00Pen',
+					model: 'indigo600Pen',
 					class: 'pen-indigo-600',
 					title: 'Indigo 600 pen',
 					color: 'var(--ck-highlight-marker-indigo-600)',
@@ -1050,14 +1050,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'indig00Marker',
+					model: 'indigo700Marker',
 					class: 'marker-indigo-700',
 					title: 'Indigo 700 marker',
 					color: 'var(--ck-highlight-marker-indigo-700)',
 					type: 'marker'
 				},
 				{
-					model: 'indig00Pen',
+					model: 'indigo700Pen',
 					class: 'pen-indigo-700',
 					title: 'Indigo 700 pen',
 					color: 'var(--ck-highlight-marker-indigo-700)',
@@ -1065,14 +1065,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'indig00Marker',
+					model: 'indigo800Marker',
 					class: 'marker-indigo-800',
 					title: 'Indigo 800 marker',
 					color: 'var(--ck-highlight-marker-indigo-800)',
 					type: 'marker'
 				},
 				{
-					model: 'indig00Pen',
+					model: 'indigo800Pen',
 					class: 'pen-indigo-800',
 					title: 'Indigo 800 pen',
 					color: 'var(--ck-highlight-marker-indigo-800)',
@@ -1080,14 +1080,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'indig00Marker',
+					model: 'indigo900Marker',
 					class: 'marker-indigo-900',
 					title: 'Indigo 900 marker',
 					color: 'var(--ck-highlight-marker-indigo-900)',
 					type: 'marker'
 				},
 				{
-					model: 'indig00Pen',
+					model: 'indigo900Pen',
 					class: 'pen-indigo-900',
 					title: 'Indigo 900 pen',
 					color: 'var(--ck-highlight-marker-indigo-900)',
@@ -1095,61 +1095,61 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'indig100Marker',
+					model: 'indigoA100Marker',
 					class: 'marker-indigo-a100',
-					title: 'Indigo a100 marker',
+					title: 'Indigo A100 marker',
 					color: 'var(--ck-highlight-marker-indigo-a100)',
 					type: 'marker'
 				},
 				{
-					model: 'indig100Pen',
+					model: 'indigoA100Pen',
 					class: 'pen-indigo-a100',
-					title: 'Indigo a100 pen',
+					title: 'Indigo A100 pen',
 					color: 'var(--ck-highlight-marker-indigo-a100)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'indig200Marker',
+					model: 'indigoA200Marker',
 					class: 'marker-indigo-a200',
-					title: 'Indigo a200 marker',
+					title: 'Indigo A200 marker',
 					color: 'var(--ck-highlight-marker-indigo-a200)',
 					type: 'marker'
 				},
 				{
-					model: 'indig200Pen',
+					model: 'indigoA200Pen',
 					class: 'pen-indigo-a200',
-					title: 'Indigo a200 pen',
+					title: 'Indigo A200 pen',
 					color: 'var(--ck-highlight-marker-indigo-a200)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'indig400Marker',
+					model: 'indigoA400Marker',
 					class: 'marker-indigo-a400',
-					title: 'Indigo a400 marker',
+					title: 'Indigo A400 marker',
 					color: 'var(--ck-highlight-marker-indigo-a400)',
 					type: 'marker'
 				},
 				{
-					model: 'indig400Pen',
+					model: 'indigoA400Pen',
 					class: 'pen-indigo-a400',
-					title: 'Indigo a400 pen',
+					title: 'Indigo A400 pen',
 					color: 'var(--ck-highlight-marker-indigo-a400)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'indig700Marker',
+					model: 'indigoA700Marker',
 					class: 'marker-indigo-a700',
-					title: 'Indigo a700 marker',
+					title: 'Indigo A700 marker',
 					color: 'var(--ck-highlight-marker-indigo-a700)',
 					type: 'marker'
 				},
 				{
-					model: 'indig700Pen',
+					model: 'indigoA700Pen',
 					class: 'pen-indigo-a700',
-					title: 'Indigo a700 pen',
+					title: 'Indigo A700 pen',
 					color: 'var(--ck-highlight-marker-indigo-a700)',
 					type: 'pen'
 				},
@@ -1170,14 +1170,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'blu0Marker',
+					model: 'blue50Marker',
 					class: 'marker-blue-50',
 					title: 'Blue 50 marker',
 					color: 'var(--ck-highlight-marker-blue-50)',
 					type: 'marker'
 				},
 				{
-					model: 'blu0Pen',
+					model: 'blue50Pen',
 					class: 'pen-blue-50',
 					title: 'Blue 50 pen',
 					color: 'var(--ck-highlight-marker-blue-50)',
@@ -1185,14 +1185,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'blu00Marker',
+					model: 'blue100Marker',
 					class: 'marker-blue-100',
 					title: 'Blue 100 marker',
 					color: 'var(--ck-highlight-marker-blue-100)',
 					type: 'marker'
 				},
 				{
-					model: 'blu00Pen',
+					model: 'blue100Pen',
 					class: 'pen-blue-100',
 					title: 'Blue 100 pen',
 					color: 'var(--ck-highlight-marker-blue-100)',
@@ -1200,14 +1200,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'blu00Marker',
+					model: 'blue200Marker',
 					class: 'marker-blue-200',
 					title: 'Blue 200 marker',
 					color: 'var(--ck-highlight-marker-blue-200)',
 					type: 'marker'
 				},
 				{
-					model: 'blu00Pen',
+					model: 'blue200Pen',
 					class: 'pen-blue-200',
 					title: 'Blue 200 pen',
 					color: 'var(--ck-highlight-marker-blue-200)',
@@ -1215,14 +1215,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'blu00Marker',
+					model: 'blue300Marker',
 					class: 'marker-blue-300',
 					title: 'Blue 300 marker',
 					color: 'var(--ck-highlight-marker-blue-300)',
 					type: 'marker'
 				},
 				{
-					model: 'blu00Pen',
+					model: 'blue300Pen',
 					class: 'pen-blue-300',
 					title: 'Blue 300 pen',
 					color: 'var(--ck-highlight-marker-blue-300)',
@@ -1230,14 +1230,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'blu00Marker',
+					model: 'blue400Marker',
 					class: 'marker-blue-400',
 					title: 'Blue 400 marker',
 					color: 'var(--ck-highlight-marker-blue-400)',
 					type: 'marker'
 				},
 				{
-					model: 'blu00Pen',
+					model: 'blue400Pen',
 					class: 'pen-blue-400',
 					title: 'Blue 400 pen',
 					color: 'var(--ck-highlight-marker-blue-400)',
@@ -1245,14 +1245,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'blu00Marker',
+					model: 'blue500Marker',
 					class: 'marker-blue-500',
 					title: 'Blue 500 marker',
 					color: 'var(--ck-highlight-marker-blue-500)',
 					type: 'marker'
 				},
 				{
-					model: 'blu00Pen',
+					model: 'blue500Pen',
 					class: 'pen-blue-500',
 					title: 'Blue 500 pen',
 					color: 'var(--ck-highlight-marker-blue-500)',
@@ -1260,14 +1260,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'blu00Marker',
+					model: 'blue600Marker',
 					class: 'marker-blue-600',
 					title: 'Blue 600 marker',
 					color: 'var(--ck-highlight-marker-blue-600)',
 					type: 'marker'
 				},
 				{
-					model: 'blu00Pen',
+					model: 'blue600Pen',
 					class: 'pen-blue-600',
 					title: 'Blue 600 pen',
 					color: 'var(--ck-highlight-marker-blue-600)',
@@ -1275,14 +1275,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'blu00Marker',
+					model: 'blue700Marker',
 					class: 'marker-blue-700',
 					title: 'Blue 700 marker',
 					color: 'var(--ck-highlight-marker-blue-700)',
 					type: 'marker'
 				},
 				{
-					model: 'blu00Pen',
+					model: 'blue700Pen',
 					class: 'pen-blue-700',
 					title: 'Blue 700 pen',
 					color: 'var(--ck-highlight-marker-blue-700)',
@@ -1290,14 +1290,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'blu00Marker',
+					model: 'blue800Marker',
 					class: 'marker-blue-800',
 					title: 'Blue 800 marker',
 					color: 'var(--ck-highlight-marker-blue-800)',
 					type: 'marker'
 				},
 				{
-					model: 'blu00Pen',
+					model: 'blue800Pen',
 					class: 'pen-blue-800',
 					title: 'Blue 800 pen',
 					color: 'var(--ck-highlight-marker-blue-800)',
@@ -1305,14 +1305,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'blu00Marker',
+					model: 'blue900Marker',
 					class: 'marker-blue-900',
 					title: 'Blue 900 marker',
 					color: 'var(--ck-highlight-marker-blue-900)',
 					type: 'marker'
 				},
 				{
-					model: 'blu00Pen',
+					model: 'blue900Pen',
 					class: 'pen-blue-900',
 					title: 'Blue 900 pen',
 					color: 'var(--ck-highlight-marker-blue-900)',
@@ -1320,286 +1320,286 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'blu100Marker',
+					model: 'blueA100Marker',
 					class: 'marker-blue-a100',
-					title: 'Blue a100 marker',
+					title: 'Blue A100 marker',
 					color: 'var(--ck-highlight-marker-blue-a100)',
 					type: 'marker'
 				},
 				{
-					model: 'blu100Pen',
+					model: 'blueA100Pen',
 					class: 'pen-blue-a100',
-					title: 'Blue a100 pen',
+					title: 'Blue A100 pen',
 					color: 'var(--ck-highlight-marker-blue-a100)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'blu200Marker',
+					model: 'blueA200Marker',
 					class: 'marker-blue-a200',
-					title: 'Blue a200 marker',
+					title: 'Blue A200 marker',
 					color: 'var(--ck-highlight-marker-blue-a200)',
 					type: 'marker'
 				},
 				{
-					model: 'blu200Pen',
+					model: 'blueA200Pen',
 					class: 'pen-blue-a200',
-					title: 'Blue a200 pen',
+					title: 'Blue A200 pen',
 					color: 'var(--ck-highlight-marker-blue-a200)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'blu400Marker',
+					model: 'blueA400Marker',
 					class: 'marker-blue-a400',
-					title: 'Blue a400 marker',
+					title: 'Blue A400 marker',
 					color: 'var(--ck-highlight-marker-blue-a400)',
 					type: 'marker'
 				},
 				{
-					model: 'blu400Pen',
+					model: 'blueA400Pen',
 					class: 'pen-blue-a400',
-					title: 'Blue a400 pen',
+					title: 'Blue A400 pen',
 					color: 'var(--ck-highlight-marker-blue-a400)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'blu700Marker',
+					model: 'blueA700Marker',
 					class: 'marker-blue-a700',
-					title: 'Blue a700 marker',
+					title: 'Blue A700 marker',
 					color: 'var(--ck-highlight-marker-blue-a700)',
 					type: 'marker'
 				},
 				{
-					model: 'blu700Pen',
+					model: 'blueA700Pen',
 					class: 'pen-blue-a700',
-					title: 'Blue a700 pen',
+					title: 'Blue A700 pen',
 					color: 'var(--ck-highlight-marker-blue-a700)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'lighlueMarker',
+					model: 'lightBlueMarker',
 					class: 'marker-light-blue',
-					title: 'Light blue marker',
+					title: 'Light Blue marker',
 					color: 'var(--ck-highlight-marker-light-blue)',
 					type: 'marker'
 				},
 				{
-					model: 'lighluePen',
+					model: 'lightBluePen',
 					class: 'pen-light-blue',
-					title: 'Light blue pen',
+					title: 'Light Blue pen',
 					color: 'var(--ck-highlight-marker-light-blue)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'lighlu0Marker',
+					model: 'lightBlue50Marker',
 					class: 'marker-light-blue-50',
-					title: 'Light blue 50 marker',
+					title: 'Light Blue 50 marker',
 					color: 'var(--ck-highlight-marker-light-blue-50)',
 					type: 'marker'
 				},
 				{
-					model: 'lighlu0Pen',
+					model: 'lightBlue50Pen',
 					class: 'pen-light-blue-50',
-					title: 'Light blue 50 pen',
+					title: 'Light Blue 50 pen',
 					color: 'var(--ck-highlight-marker-light-blue-50)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'lighlu00Marker',
+					model: 'lightBlue100Marker',
 					class: 'marker-light-blue-100',
-					title: 'Light blue 100 marker',
+					title: 'Light Blue 100 marker',
 					color: 'var(--ck-highlight-marker-light-blue-100)',
 					type: 'marker'
 				},
 				{
-					model: 'lighlu00Pen',
+					model: 'lightBlue100Pen',
 					class: 'pen-light-blue-100',
-					title: 'Light blue 100 pen',
+					title: 'Light Blue 100 pen',
 					color: 'var(--ck-highlight-marker-light-blue-100)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'lighlu00Marker',
+					model: 'lightBlue200Marker',
 					class: 'marker-light-blue-200',
-					title: 'Light blue 200 marker',
+					title: 'Light Blue 200 marker',
 					color: 'var(--ck-highlight-marker-light-blue-200)',
 					type: 'marker'
 				},
 				{
-					model: 'lighlu00Pen',
+					model: 'lightBlue200Pen',
 					class: 'pen-light-blue-200',
-					title: 'Light blue 200 pen',
+					title: 'Light Blue 200 pen',
 					color: 'var(--ck-highlight-marker-light-blue-200)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'lighlu00Marker',
+					model: 'lightBlue300Marker',
 					class: 'marker-light-blue-300',
-					title: 'Light blue 300 marker',
+					title: 'Light Blue 300 marker',
 					color: 'var(--ck-highlight-marker-light-blue-300)',
 					type: 'marker'
 				},
 				{
-					model: 'lighlu00Pen',
+					model: 'lightBlue300Pen',
 					class: 'pen-light-blue-300',
-					title: 'Light blue 300 pen',
+					title: 'Light Blue 300 pen',
 					color: 'var(--ck-highlight-marker-light-blue-300)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'lighlu00Marker',
+					model: 'lightBlue400Marker',
 					class: 'marker-light-blue-400',
-					title: 'Light blue 400 marker',
+					title: 'Light Blue 400 marker',
 					color: 'var(--ck-highlight-marker-light-blue-400)',
 					type: 'marker'
 				},
 				{
-					model: 'lighlu00Pen',
+					model: 'lightBlue400Pen',
 					class: 'pen-light-blue-400',
-					title: 'Light blue 400 pen',
+					title: 'Light Blue 400 pen',
 					color: 'var(--ck-highlight-marker-light-blue-400)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'lighlu00Marker',
+					model: 'lightBlue500Marker',
 					class: 'marker-light-blue-500',
-					title: 'Light blue 500 marker',
+					title: 'Light Blue 500 marker',
 					color: 'var(--ck-highlight-marker-light-blue-500)',
 					type: 'marker'
 				},
 				{
-					model: 'lighlu00Pen',
+					model: 'lightBlue500Pen',
 					class: 'pen-light-blue-500',
-					title: 'Light blue 500 pen',
+					title: 'Light Blue 500 pen',
 					color: 'var(--ck-highlight-marker-light-blue-500)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'lighlu00Marker',
+					model: 'lightBlue600Marker',
 					class: 'marker-light-blue-600',
-					title: 'Light blue 600 marker',
+					title: 'Light Blue 600 marker',
 					color: 'var(--ck-highlight-marker-light-blue-600)',
 					type: 'marker'
 				},
 				{
-					model: 'lighlu00Pen',
+					model: 'lightBlue600Pen',
 					class: 'pen-light-blue-600',
-					title: 'Light blue 600 pen',
+					title: 'Light Blue 600 pen',
 					color: 'var(--ck-highlight-marker-light-blue-600)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'lighlu00Marker',
+					model: 'lightBlue700Marker',
 					class: 'marker-light-blue-700',
-					title: 'Light blue 700 marker',
+					title: 'Light Blue 700 marker',
 					color: 'var(--ck-highlight-marker-light-blue-700)',
 					type: 'marker'
 				},
 				{
-					model: 'lighlu00Pen',
+					model: 'lightBlue700Pen',
 					class: 'pen-light-blue-700',
-					title: 'Light blue 700 pen',
+					title: 'Light Blue 700 pen',
 					color: 'var(--ck-highlight-marker-light-blue-700)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'lighlu00Marker',
+					model: 'lightBlue800Marker',
 					class: 'marker-light-blue-800',
-					title: 'Light blue 800 marker',
+					title: 'Light Blue 800 marker',
 					color: 'var(--ck-highlight-marker-light-blue-800)',
 					type: 'marker'
 				},
 				{
-					model: 'lighlu00Pen',
+					model: 'lightBlue800Pen',
 					class: 'pen-light-blue-800',
-					title: 'Light blue 800 pen',
+					title: 'Light Blue 800 pen',
 					color: 'var(--ck-highlight-marker-light-blue-800)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'lighlu00Marker',
+					model: 'lightBlue900Marker',
 					class: 'marker-light-blue-900',
-					title: 'Light blue 900 marker',
+					title: 'Light Blue 900 marker',
 					color: 'var(--ck-highlight-marker-light-blue-900)',
 					type: 'marker'
 				},
 				{
-					model: 'lighlu00Pen',
+					model: 'lightBlue900Pen',
 					class: 'pen-light-blue-900',
-					title: 'Light blue 900 pen',
+					title: 'Light Blue 900 pen',
 					color: 'var(--ck-highlight-marker-light-blue-900)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'lighlu100Marker',
+					model: 'lightBlueA100Marker',
 					class: 'marker-light-blue-a100',
-					title: 'Light blue a100 marker',
+					title: 'Light Blue A100 marker',
 					color: 'var(--ck-highlight-marker-light-blue-a100)',
 					type: 'marker'
 				},
 				{
-					model: 'lighlu100Pen',
+					model: 'lightBlueA100Pen',
 					class: 'pen-light-blue-a100',
-					title: 'Light blue a100 pen',
+					title: 'Light Blue A100 pen',
 					color: 'var(--ck-highlight-marker-light-blue-a100)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'lighlu200Marker',
+					model: 'lightBlueA200Marker',
 					class: 'marker-light-blue-a200',
-					title: 'Light blue a200 marker',
+					title: 'Light Blue A200 marker',
 					color: 'var(--ck-highlight-marker-light-blue-a200)',
 					type: 'marker'
 				},
 				{
-					model: 'lighlu200Pen',
+					model: 'lightBlueA200Pen',
 					class: 'pen-light-blue-a200',
-					title: 'Light blue a200 pen',
+					title: 'Light Blue A200 pen',
 					color: 'var(--ck-highlight-marker-light-blue-a200)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'lighlu400Marker',
+					model: 'lightBlueA400Marker',
 					class: 'marker-light-blue-a400',
-					title: 'Light blue a400 marker',
+					title: 'Light Blue A400 marker',
 					color: 'var(--ck-highlight-marker-light-blue-a400)',
 					type: 'marker'
 				},
 				{
-					model: 'lighlu400Pen',
+					model: 'lightBlueA400Pen',
 					class: 'pen-light-blue-a400',
-					title: 'Light blue a400 pen',
+					title: 'Light Blue A400 pen',
 					color: 'var(--ck-highlight-marker-light-blue-a400)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'lighlu700Marker',
+					model: 'lightBlueA700Marker',
 					class: 'marker-light-blue-a700',
-					title: 'Light blue a700 marker',
+					title: 'Light Blue A700 marker',
 					color: 'var(--ck-highlight-marker-light-blue-a700)',
 					type: 'marker'
 				},
 				{
-					model: 'lighlu700Pen',
+					model: 'lightBlueA700Pen',
 					class: 'pen-light-blue-a700',
-					title: 'Light blue a700 pen',
+					title: 'Light Blue A700 pen',
 					color: 'var(--ck-highlight-marker-light-blue-a700)',
 					type: 'pen'
 				},
@@ -1620,14 +1620,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'cya0Marker',
+					model: 'cyan50Marker',
 					class: 'marker-cyan-50',
 					title: 'Cyan 50 marker',
 					color: 'var(--ck-highlight-marker-cyan-50)',
 					type: 'marker'
 				},
 				{
-					model: 'cya0Pen',
+					model: 'cyan50Pen',
 					class: 'pen-cyan-50',
 					title: 'Cyan 50 pen',
 					color: 'var(--ck-highlight-marker-cyan-50)',
@@ -1635,14 +1635,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'cya00Marker',
+					model: 'cyan100Marker',
 					class: 'marker-cyan-100',
 					title: 'Cyan 100 marker',
 					color: 'var(--ck-highlight-marker-cyan-100)',
 					type: 'marker'
 				},
 				{
-					model: 'cya00Pen',
+					model: 'cyan100Pen',
 					class: 'pen-cyan-100',
 					title: 'Cyan 100 pen',
 					color: 'var(--ck-highlight-marker-cyan-100)',
@@ -1650,14 +1650,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'cya00Marker',
+					model: 'cyan200Marker',
 					class: 'marker-cyan-200',
 					title: 'Cyan 200 marker',
 					color: 'var(--ck-highlight-marker-cyan-200)',
 					type: 'marker'
 				},
 				{
-					model: 'cya00Pen',
+					model: 'cyan200Pen',
 					class: 'pen-cyan-200',
 					title: 'Cyan 200 pen',
 					color: 'var(--ck-highlight-marker-cyan-200)',
@@ -1665,14 +1665,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'cya00Marker',
+					model: 'cyan300Marker',
 					class: 'marker-cyan-300',
 					title: 'Cyan 300 marker',
 					color: 'var(--ck-highlight-marker-cyan-300)',
 					type: 'marker'
 				},
 				{
-					model: 'cya00Pen',
+					model: 'cyan300Pen',
 					class: 'pen-cyan-300',
 					title: 'Cyan 300 pen',
 					color: 'var(--ck-highlight-marker-cyan-300)',
@@ -1680,14 +1680,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'cya00Marker',
+					model: 'cyan400Marker',
 					class: 'marker-cyan-400',
 					title: 'Cyan 400 marker',
 					color: 'var(--ck-highlight-marker-cyan-400)',
 					type: 'marker'
 				},
 				{
-					model: 'cya00Pen',
+					model: 'cyan400Pen',
 					class: 'pen-cyan-400',
 					title: 'Cyan 400 pen',
 					color: 'var(--ck-highlight-marker-cyan-400)',
@@ -1695,14 +1695,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'cya00Marker',
+					model: 'cyan500Marker',
 					class: 'marker-cyan-500',
 					title: 'Cyan 500 marker',
 					color: 'var(--ck-highlight-marker-cyan-500)',
 					type: 'marker'
 				},
 				{
-					model: 'cya00Pen',
+					model: 'cyan500Pen',
 					class: 'pen-cyan-500',
 					title: 'Cyan 500 pen',
 					color: 'var(--ck-highlight-marker-cyan-500)',
@@ -1710,14 +1710,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'cya00Marker',
+					model: 'cyan600Marker',
 					class: 'marker-cyan-600',
 					title: 'Cyan 600 marker',
 					color: 'var(--ck-highlight-marker-cyan-600)',
 					type: 'marker'
 				},
 				{
-					model: 'cya00Pen',
+					model: 'cyan600Pen',
 					class: 'pen-cyan-600',
 					title: 'Cyan 600 pen',
 					color: 'var(--ck-highlight-marker-cyan-600)',
@@ -1725,14 +1725,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'cya00Marker',
+					model: 'cyan700Marker',
 					class: 'marker-cyan-700',
 					title: 'Cyan 700 marker',
 					color: 'var(--ck-highlight-marker-cyan-700)',
 					type: 'marker'
 				},
 				{
-					model: 'cya00Pen',
+					model: 'cyan700Pen',
 					class: 'pen-cyan-700',
 					title: 'Cyan 700 pen',
 					color: 'var(--ck-highlight-marker-cyan-700)',
@@ -1740,14 +1740,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'cya00Marker',
+					model: 'cyan800Marker',
 					class: 'marker-cyan-800',
 					title: 'Cyan 800 marker',
 					color: 'var(--ck-highlight-marker-cyan-800)',
 					type: 'marker'
 				},
 				{
-					model: 'cya00Pen',
+					model: 'cyan800Pen',
 					class: 'pen-cyan-800',
 					title: 'Cyan 800 pen',
 					color: 'var(--ck-highlight-marker-cyan-800)',
@@ -1755,14 +1755,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'cya00Marker',
+					model: 'cyan900Marker',
 					class: 'marker-cyan-900',
 					title: 'Cyan 900 marker',
 					color: 'var(--ck-highlight-marker-cyan-900)',
 					type: 'marker'
 				},
 				{
-					model: 'cya00Pen',
+					model: 'cyan900Pen',
 					class: 'pen-cyan-900',
 					title: 'Cyan 900 pen',
 					color: 'var(--ck-highlight-marker-cyan-900)',
@@ -1770,61 +1770,61 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'cya100Marker',
+					model: 'cyanA100Marker',
 					class: 'marker-cyan-a100',
-					title: 'Cyan a100 marker',
+					title: 'Cyan A100 marker',
 					color: 'var(--ck-highlight-marker-cyan-a100)',
 					type: 'marker'
 				},
 				{
-					model: 'cya100Pen',
+					model: 'cyanA100Pen',
 					class: 'pen-cyan-a100',
-					title: 'Cyan a100 pen',
+					title: 'Cyan A100 pen',
 					color: 'var(--ck-highlight-marker-cyan-a100)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'cya200Marker',
+					model: 'cyanA200Marker',
 					class: 'marker-cyan-a200',
-					title: 'Cyan a200 marker',
+					title: 'Cyan A200 marker',
 					color: 'var(--ck-highlight-marker-cyan-a200)',
 					type: 'marker'
 				},
 				{
-					model: 'cya200Pen',
+					model: 'cyanA200Pen',
 					class: 'pen-cyan-a200',
-					title: 'Cyan a200 pen',
+					title: 'Cyan A200 pen',
 					color: 'var(--ck-highlight-marker-cyan-a200)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'cya400Marker',
+					model: 'cyanA400Marker',
 					class: 'marker-cyan-a400',
-					title: 'Cyan a400 marker',
+					title: 'Cyan A400 marker',
 					color: 'var(--ck-highlight-marker-cyan-a400)',
 					type: 'marker'
 				},
 				{
-					model: 'cya400Pen',
+					model: 'cyanA400Pen',
 					class: 'pen-cyan-a400',
-					title: 'Cyan a400 pen',
+					title: 'Cyan A400 pen',
 					color: 'var(--ck-highlight-marker-cyan-a400)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'cya700Marker',
+					model: 'cyanA700Marker',
 					class: 'marker-cyan-a700',
-					title: 'Cyan a700 marker',
+					title: 'Cyan A700 marker',
 					color: 'var(--ck-highlight-marker-cyan-a700)',
 					type: 'marker'
 				},
 				{
-					model: 'cya700Pen',
+					model: 'cyanA700Pen',
 					class: 'pen-cyan-a700',
-					title: 'Cyan a700 pen',
+					title: 'Cyan A700 pen',
 					color: 'var(--ck-highlight-marker-cyan-a700)',
 					type: 'pen'
 				},
@@ -1845,14 +1845,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'tea0Marker',
+					model: 'teal50Marker',
 					class: 'marker-teal-50',
 					title: 'Teal 50 marker',
 					color: 'var(--ck-highlight-marker-teal-50)',
 					type: 'marker'
 				},
 				{
-					model: 'tea0Pen',
+					model: 'teal50Pen',
 					class: 'pen-teal-50',
 					title: 'Teal 50 pen',
 					color: 'var(--ck-highlight-marker-teal-50)',
@@ -1860,14 +1860,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'tea00Marker',
+					model: 'teal100Marker',
 					class: 'marker-teal-100',
 					title: 'Teal 100 marker',
 					color: 'var(--ck-highlight-marker-teal-100)',
 					type: 'marker'
 				},
 				{
-					model: 'tea00Pen',
+					model: 'teal100Pen',
 					class: 'pen-teal-100',
 					title: 'Teal 100 pen',
 					color: 'var(--ck-highlight-marker-teal-100)',
@@ -1875,14 +1875,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'tea00Marker',
+					model: 'teal200Marker',
 					class: 'marker-teal-200',
 					title: 'Teal 200 marker',
 					color: 'var(--ck-highlight-marker-teal-200)',
 					type: 'marker'
 				},
 				{
-					model: 'tea00Pen',
+					model: 'teal200Pen',
 					class: 'pen-teal-200',
 					title: 'Teal 200 pen',
 					color: 'var(--ck-highlight-marker-teal-200)',
@@ -1890,14 +1890,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'tea00Marker',
+					model: 'teal300Marker',
 					class: 'marker-teal-300',
 					title: 'Teal 300 marker',
 					color: 'var(--ck-highlight-marker-teal-300)',
 					type: 'marker'
 				},
 				{
-					model: 'tea00Pen',
+					model: 'teal300Pen',
 					class: 'pen-teal-300',
 					title: 'Teal 300 pen',
 					color: 'var(--ck-highlight-marker-teal-300)',
@@ -1905,14 +1905,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'tea00Marker',
+					model: 'teal400Marker',
 					class: 'marker-teal-400',
 					title: 'Teal 400 marker',
 					color: 'var(--ck-highlight-marker-teal-400)',
 					type: 'marker'
 				},
 				{
-					model: 'tea00Pen',
+					model: 'teal400Pen',
 					class: 'pen-teal-400',
 					title: 'Teal 400 pen',
 					color: 'var(--ck-highlight-marker-teal-400)',
@@ -1920,14 +1920,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'tea00Marker',
+					model: 'teal500Marker',
 					class: 'marker-teal-500',
 					title: 'Teal 500 marker',
 					color: 'var(--ck-highlight-marker-teal-500)',
 					type: 'marker'
 				},
 				{
-					model: 'tea00Pen',
+					model: 'teal500Pen',
 					class: 'pen-teal-500',
 					title: 'Teal 500 pen',
 					color: 'var(--ck-highlight-marker-teal-500)',
@@ -1935,14 +1935,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'tea00Marker',
+					model: 'teal600Marker',
 					class: 'marker-teal-600',
 					title: 'Teal 600 marker',
 					color: 'var(--ck-highlight-marker-teal-600)',
 					type: 'marker'
 				},
 				{
-					model: 'tea00Pen',
+					model: 'teal600Pen',
 					class: 'pen-teal-600',
 					title: 'Teal 600 pen',
 					color: 'var(--ck-highlight-marker-teal-600)',
@@ -1950,14 +1950,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'tea00Marker',
+					model: 'teal700Marker',
 					class: 'marker-teal-700',
 					title: 'Teal 700 marker',
 					color: 'var(--ck-highlight-marker-teal-700)',
 					type: 'marker'
 				},
 				{
-					model: 'tea00Pen',
+					model: 'teal700Pen',
 					class: 'pen-teal-700',
 					title: 'Teal 700 pen',
 					color: 'var(--ck-highlight-marker-teal-700)',
@@ -1965,14 +1965,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'tea00Marker',
+					model: 'teal800Marker',
 					class: 'marker-teal-800',
 					title: 'Teal 800 marker',
 					color: 'var(--ck-highlight-marker-teal-800)',
 					type: 'marker'
 				},
 				{
-					model: 'tea00Pen',
+					model: 'teal800Pen',
 					class: 'pen-teal-800',
 					title: 'Teal 800 pen',
 					color: 'var(--ck-highlight-marker-teal-800)',
@@ -1980,14 +1980,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'tea00Marker',
+					model: 'teal900Marker',
 					class: 'marker-teal-900',
 					title: 'Teal 900 marker',
 					color: 'var(--ck-highlight-marker-teal-900)',
 					type: 'marker'
 				},
 				{
-					model: 'tea00Pen',
+					model: 'teal900Pen',
 					class: 'pen-teal-900',
 					title: 'Teal 900 pen',
 					color: 'var(--ck-highlight-marker-teal-900)',
@@ -1995,61 +1995,61 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'tea100Marker',
+					model: 'tealA100Marker',
 					class: 'marker-teal-a100',
-					title: 'Teal a100 marker',
+					title: 'Teal A100 marker',
 					color: 'var(--ck-highlight-marker-teal-a100)',
 					type: 'marker'
 				},
 				{
-					model: 'tea100Pen',
+					model: 'tealA100Pen',
 					class: 'pen-teal-a100',
-					title: 'Teal a100 pen',
+					title: 'Teal A100 pen',
 					color: 'var(--ck-highlight-marker-teal-a100)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'tea200Marker',
+					model: 'tealA200Marker',
 					class: 'marker-teal-a200',
-					title: 'Teal a200 marker',
+					title: 'Teal A200 marker',
 					color: 'var(--ck-highlight-marker-teal-a200)',
 					type: 'marker'
 				},
 				{
-					model: 'tea200Pen',
+					model: 'tealA200Pen',
 					class: 'pen-teal-a200',
-					title: 'Teal a200 pen',
+					title: 'Teal A200 pen',
 					color: 'var(--ck-highlight-marker-teal-a200)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'tea400Marker',
+					model: 'tealA400Marker',
 					class: 'marker-teal-a400',
-					title: 'Teal a400 marker',
+					title: 'Teal A400 marker',
 					color: 'var(--ck-highlight-marker-teal-a400)',
 					type: 'marker'
 				},
 				{
-					model: 'tea400Pen',
+					model: 'tealA400Pen',
 					class: 'pen-teal-a400',
-					title: 'Teal a400 pen',
+					title: 'Teal A400 pen',
 					color: 'var(--ck-highlight-marker-teal-a400)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'tea700Marker',
+					model: 'tealA700Marker',
 					class: 'marker-teal-a700',
-					title: 'Teal a700 marker',
+					title: 'Teal A700 marker',
 					color: 'var(--ck-highlight-marker-teal-a700)',
 					type: 'marker'
 				},
 				{
-					model: 'tea700Pen',
+					model: 'tealA700Pen',
 					class: 'pen-teal-a700',
-					title: 'Teal a700 pen',
+					title: 'Teal A700 pen',
 					color: 'var(--ck-highlight-marker-teal-a700)',
 					type: 'pen'
 				},
@@ -2070,14 +2070,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'gree0Marker',
+					model: 'green50Marker',
 					class: 'marker-green-50',
 					title: 'Green 50 marker',
 					color: 'var(--ck-highlight-marker-green-50)',
 					type: 'marker'
 				},
 				{
-					model: 'gree0Pen',
+					model: 'green50Pen',
 					class: 'pen-green-50',
 					title: 'Green 50 pen',
 					color: 'var(--ck-highlight-marker-green-50)',
@@ -2085,14 +2085,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'gree00Marker',
+					model: 'green100Marker',
 					class: 'marker-green-100',
 					title: 'Green 100 marker',
 					color: 'var(--ck-highlight-marker-green-100)',
 					type: 'marker'
 				},
 				{
-					model: 'gree00Pen',
+					model: 'green100Pen',
 					class: 'pen-green-100',
 					title: 'Green 100 pen',
 					color: 'var(--ck-highlight-marker-green-100)',
@@ -2100,14 +2100,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'gree00Marker',
+					model: 'green200Marker',
 					class: 'marker-green-200',
 					title: 'Green 200 marker',
 					color: 'var(--ck-highlight-marker-green-200)',
 					type: 'marker'
 				},
 				{
-					model: 'gree00Pen',
+					model: 'green200Pen',
 					class: 'pen-green-200',
 					title: 'Green 200 pen',
 					color: 'var(--ck-highlight-marker-green-200)',
@@ -2115,14 +2115,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'gree00Marker',
+					model: 'green300Marker',
 					class: 'marker-green-300',
 					title: 'Green 300 marker',
 					color: 'var(--ck-highlight-marker-green-300)',
 					type: 'marker'
 				},
 				{
-					model: 'gree00Pen',
+					model: 'green300Pen',
 					class: 'pen-green-300',
 					title: 'Green 300 pen',
 					color: 'var(--ck-highlight-marker-green-300)',
@@ -2130,14 +2130,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'gree00Marker',
+					model: 'green400Marker',
 					class: 'marker-green-400',
 					title: 'Green 400 marker',
 					color: 'var(--ck-highlight-marker-green-400)',
 					type: 'marker'
 				},
 				{
-					model: 'gree00Pen',
+					model: 'green400Pen',
 					class: 'pen-green-400',
 					title: 'Green 400 pen',
 					color: 'var(--ck-highlight-marker-green-400)',
@@ -2145,14 +2145,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'gree00Marker',
+					model: 'green500Marker',
 					class: 'marker-green-500',
 					title: 'Green 500 marker',
 					color: 'var(--ck-highlight-marker-green-500)',
 					type: 'marker'
 				},
 				{
-					model: 'gree00Pen',
+					model: 'green500Pen',
 					class: 'pen-green-500',
 					title: 'Green 500 pen',
 					color: 'var(--ck-highlight-marker-green-500)',
@@ -2160,14 +2160,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'gree00Marker',
+					model: 'green600Marker',
 					class: 'marker-green-600',
 					title: 'Green 600 marker',
 					color: 'var(--ck-highlight-marker-green-600)',
 					type: 'marker'
 				},
 				{
-					model: 'gree00Pen',
+					model: 'green600Pen',
 					class: 'pen-green-600',
 					title: 'Green 600 pen',
 					color: 'var(--ck-highlight-marker-green-600)',
@@ -2175,14 +2175,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'gree00Marker',
+					model: 'green700Marker',
 					class: 'marker-green-700',
 					title: 'Green 700 marker',
 					color: 'var(--ck-highlight-marker-green-700)',
 					type: 'marker'
 				},
 				{
-					model: 'gree00Pen',
+					model: 'green700Pen',
 					class: 'pen-green-700',
 					title: 'Green 700 pen',
 					color: 'var(--ck-highlight-marker-green-700)',
@@ -2190,14 +2190,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'gree00Marker',
+					model: 'green800Marker',
 					class: 'marker-green-800',
 					title: 'Green 800 marker',
 					color: 'var(--ck-highlight-marker-green-800)',
 					type: 'marker'
 				},
 				{
-					model: 'gree00Pen',
+					model: 'green800Pen',
 					class: 'pen-green-800',
 					title: 'Green 800 pen',
 					color: 'var(--ck-highlight-marker-green-800)',
@@ -2205,14 +2205,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'gree00Marker',
+					model: 'green900Marker',
 					class: 'marker-green-900',
 					title: 'Green 900 marker',
 					color: 'var(--ck-highlight-marker-green-900)',
 					type: 'marker'
 				},
 				{
-					model: 'gree00Pen',
+					model: 'green900Pen',
 					class: 'pen-green-900',
 					title: 'Green 900 pen',
 					color: 'var(--ck-highlight-marker-green-900)',
@@ -2220,286 +2220,286 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'gree100Marker',
+					model: 'greenA100Marker',
 					class: 'marker-green-a100',
-					title: 'Green a100 marker',
+					title: 'Green A100 marker',
 					color: 'var(--ck-highlight-marker-green-a100)',
 					type: 'marker'
 				},
 				{
-					model: 'gree100Pen',
+					model: 'greenA100Pen',
 					class: 'pen-green-a100',
-					title: 'Green a100 pen',
+					title: 'Green A100 pen',
 					color: 'var(--ck-highlight-marker-green-a100)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'gree200Marker',
+					model: 'greenA200Marker',
 					class: 'marker-green-a200',
-					title: 'Green a200 marker',
+					title: 'Green A200 marker',
 					color: 'var(--ck-highlight-marker-green-a200)',
 					type: 'marker'
 				},
 				{
-					model: 'gree200Pen',
+					model: 'greenA200Pen',
 					class: 'pen-green-a200',
-					title: 'Green a200 pen',
+					title: 'Green A200 pen',
 					color: 'var(--ck-highlight-marker-green-a200)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'gree400Marker',
+					model: 'greenA400Marker',
 					class: 'marker-green-a400',
-					title: 'Green a400 marker',
+					title: 'Green A400 marker',
 					color: 'var(--ck-highlight-marker-green-a400)',
 					type: 'marker'
 				},
 				{
-					model: 'gree400Pen',
+					model: 'greenA400Pen',
 					class: 'pen-green-a400',
-					title: 'Green a400 pen',
+					title: 'Green A400 pen',
 					color: 'var(--ck-highlight-marker-green-a400)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'gree700Marker',
+					model: 'greenA700Marker',
 					class: 'marker-green-a700',
-					title: 'Green a700 marker',
+					title: 'Green A700 marker',
 					color: 'var(--ck-highlight-marker-green-a700)',
 					type: 'marker'
 				},
 				{
-					model: 'gree700Pen',
+					model: 'greenA700Pen',
 					class: 'pen-green-a700',
-					title: 'Green a700 pen',
+					title: 'Green A700 pen',
 					color: 'var(--ck-highlight-marker-green-a700)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'lighreenMarker',
+					model: 'lightGreenMarker',
 					class: 'marker-light-green',
-					title: 'Light green marker',
+					title: 'Light Green marker',
 					color: 'var(--ck-highlight-marker-light-green)',
 					type: 'marker'
 				},
 				{
-					model: 'lighreenPen',
+					model: 'lightGreenPen',
 					class: 'pen-light-green',
-					title: 'Light green pen',
+					title: 'Light Green pen',
 					color: 'var(--ck-highlight-marker-light-green)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'lighree0Marker',
+					model: 'lightGreen50Marker',
 					class: 'marker-light-green-50',
-					title: 'Light green 50 marker',
+					title: 'Light Green 50 marker',
 					color: 'var(--ck-highlight-marker-light-green-50)',
 					type: 'marker'
 				},
 				{
-					model: 'lighree0Pen',
+					model: 'lightGreen50Pen',
 					class: 'pen-light-green-50',
-					title: 'Light green 50 pen',
+					title: 'Light Green 50 pen',
 					color: 'var(--ck-highlight-marker-light-green-50)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'lighree00Marker',
+					model: 'lightGreen100Marker',
 					class: 'marker-light-green-100',
-					title: 'Light green 100 marker',
+					title: 'Light Green 100 marker',
 					color: 'var(--ck-highlight-marker-light-green-100)',
 					type: 'marker'
 				},
 				{
-					model: 'lighree00Pen',
+					model: 'lightGreen100Pen',
 					class: 'pen-light-green-100',
-					title: 'Light green 100 pen',
+					title: 'Light Green 100 pen',
 					color: 'var(--ck-highlight-marker-light-green-100)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'lighree00Marker',
+					model: 'lightGreen200Marker',
 					class: 'marker-light-green-200',
-					title: 'Light green 200 marker',
+					title: 'Light Green 200 marker',
 					color: 'var(--ck-highlight-marker-light-green-200)',
 					type: 'marker'
 				},
 				{
-					model: 'lighree00Pen',
+					model: 'lightGreen200Pen',
 					class: 'pen-light-green-200',
-					title: 'Light green 200 pen',
+					title: 'Light Green 200 pen',
 					color: 'var(--ck-highlight-marker-light-green-200)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'lighree00Marker',
+					model: 'lightGreen300Marker',
 					class: 'marker-light-green-300',
-					title: 'Light green 300 marker',
+					title: 'Light Green 300 marker',
 					color: 'var(--ck-highlight-marker-light-green-300)',
 					type: 'marker'
 				},
 				{
-					model: 'lighree00Pen',
+					model: 'lightGreen300Pen',
 					class: 'pen-light-green-300',
-					title: 'Light green 300 pen',
+					title: 'Light Green 300 pen',
 					color: 'var(--ck-highlight-marker-light-green-300)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'lighree00Marker',
+					model: 'lightGreen400Marker',
 					class: 'marker-light-green-400',
-					title: 'Light green 400 marker',
+					title: 'Light Green 400 marker',
 					color: 'var(--ck-highlight-marker-light-green-400)',
 					type: 'marker'
 				},
 				{
-					model: 'lighree00Pen',
+					model: 'lightGreen400Pen',
 					class: 'pen-light-green-400',
-					title: 'Light green 400 pen',
+					title: 'Light Green 400 pen',
 					color: 'var(--ck-highlight-marker-light-green-400)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'lighree00Marker',
+					model: 'lightGreen500Marker',
 					class: 'marker-light-green-500',
-					title: 'Light green 500 marker',
+					title: 'Light Green 500 marker',
 					color: 'var(--ck-highlight-marker-light-green-500)',
 					type: 'marker'
 				},
 				{
-					model: 'lighree00Pen',
+					model: 'lightGreen500Pen',
 					class: 'pen-light-green-500',
-					title: 'Light green 500 pen',
+					title: 'Light Green 500 pen',
 					color: 'var(--ck-highlight-marker-light-green-500)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'lighree00Marker',
+					model: 'lightGreen600Marker',
 					class: 'marker-light-green-600',
-					title: 'Light green 600 marker',
+					title: 'Light Green 600 marker',
 					color: 'var(--ck-highlight-marker-light-green-600)',
 					type: 'marker'
 				},
 				{
-					model: 'lighree00Pen',
+					model: 'lightGreen600Pen',
 					class: 'pen-light-green-600',
-					title: 'Light green 600 pen',
+					title: 'Light Green 600 pen',
 					color: 'var(--ck-highlight-marker-light-green-600)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'lighree00Marker',
+					model: 'lightGreen700Marker',
 					class: 'marker-light-green-700',
-					title: 'Light green 700 marker',
+					title: 'Light Green 700 marker',
 					color: 'var(--ck-highlight-marker-light-green-700)',
 					type: 'marker'
 				},
 				{
-					model: 'lighree00Pen',
+					model: 'lightGreen700Pen',
 					class: 'pen-light-green-700',
-					title: 'Light green 700 pen',
+					title: 'Light Green 700 pen',
 					color: 'var(--ck-highlight-marker-light-green-700)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'lighree00Marker',
+					model: 'lightGreen800Marker',
 					class: 'marker-light-green-800',
-					title: 'Light green 800 marker',
+					title: 'Light Green 800 marker',
 					color: 'var(--ck-highlight-marker-light-green-800)',
 					type: 'marker'
 				},
 				{
-					model: 'lighree00Pen',
+					model: 'lightGreen800Pen',
 					class: 'pen-light-green-800',
-					title: 'Light green 800 pen',
+					title: 'Light Green 800 pen',
 					color: 'var(--ck-highlight-marker-light-green-800)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'lighree00Marker',
+					model: 'lightGreen900Marker',
 					class: 'marker-light-green-900',
-					title: 'Light green 900 marker',
+					title: 'Light Green 900 marker',
 					color: 'var(--ck-highlight-marker-light-green-900)',
 					type: 'marker'
 				},
 				{
-					model: 'lighree00Pen',
+					model: 'lightGreen900Pen',
 					class: 'pen-light-green-900',
-					title: 'Light green 900 pen',
+					title: 'Light Green 900 pen',
 					color: 'var(--ck-highlight-marker-light-green-900)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'lighree100Marker',
+					model: 'lightGreenA100Marker',
 					class: 'marker-light-green-a100',
-					title: 'Light green a100 marker',
+					title: 'Light Green A100 marker',
 					color: 'var(--ck-highlight-marker-light-green-a100)',
 					type: 'marker'
 				},
 				{
-					model: 'lighree100Pen',
+					model: 'lightGreenA100Pen',
 					class: 'pen-light-green-a100',
-					title: 'Light green a100 pen',
+					title: 'Light Green A100 pen',
 					color: 'var(--ck-highlight-marker-light-green-a100)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'lighree200Marker',
+					model: 'lightGreenA200Marker',
 					class: 'marker-light-green-a200',
-					title: 'Light green a200 marker',
+					title: 'Light Green A200 marker',
 					color: 'var(--ck-highlight-marker-light-green-a200)',
 					type: 'marker'
 				},
 				{
-					model: 'lighree200Pen',
+					model: 'lightGreenA200Pen',
 					class: 'pen-light-green-a200',
-					title: 'Light green a200 pen',
+					title: 'Light Green A200 pen',
 					color: 'var(--ck-highlight-marker-light-green-a200)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'lighree400Marker',
+					model: 'lightGreenA400Marker',
 					class: 'marker-light-green-a400',
-					title: 'Light green a400 marker',
+					title: 'Light Green A400 marker',
 					color: 'var(--ck-highlight-marker-light-green-a400)',
 					type: 'marker'
 				},
 				{
-					model: 'lighree400Pen',
+					model: 'lightGreenA400Pen',
 					class: 'pen-light-green-a400',
-					title: 'Light green a400 pen',
+					title: 'Light Green A400 pen',
 					color: 'var(--ck-highlight-marker-light-green-a400)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'lighree700Marker',
+					model: 'lightGreenA700Marker',
 					class: 'marker-light-green-a700',
-					title: 'Light green a700 marker',
+					title: 'Light Green A700 marker',
 					color: 'var(--ck-highlight-marker-light-green-a700)',
 					type: 'marker'
 				},
 				{
-					model: 'lighree700Pen',
+					model: 'lightGreenA700Pen',
 					class: 'pen-light-green-a700',
-					title: 'Light green a700 pen',
+					title: 'Light Green A700 pen',
 					color: 'var(--ck-highlight-marker-light-green-a700)',
 					type: 'pen'
 				},
@@ -2520,14 +2520,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'lim0Marker',
+					model: 'lime50Marker',
 					class: 'marker-lime-50',
 					title: 'Lime 50 marker',
 					color: 'var(--ck-highlight-marker-lime-50)',
 					type: 'marker'
 				},
 				{
-					model: 'lim0Pen',
+					model: 'lime50Pen',
 					class: 'pen-lime-50',
 					title: 'Lime 50 pen',
 					color: 'var(--ck-highlight-marker-lime-50)',
@@ -2535,14 +2535,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'lim00Marker',
+					model: 'lime100Marker',
 					class: 'marker-lime-100',
 					title: 'Lime 100 marker',
 					color: 'var(--ck-highlight-marker-lime-100)',
 					type: 'marker'
 				},
 				{
-					model: 'lim00Pen',
+					model: 'lime100Pen',
 					class: 'pen-lime-100',
 					title: 'Lime 100 pen',
 					color: 'var(--ck-highlight-marker-lime-100)',
@@ -2550,14 +2550,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'lim00Marker',
+					model: 'lime200Marker',
 					class: 'marker-lime-200',
 					title: 'Lime 200 marker',
 					color: 'var(--ck-highlight-marker-lime-200)',
 					type: 'marker'
 				},
 				{
-					model: 'lim00Pen',
+					model: 'lime200Pen',
 					class: 'pen-lime-200',
 					title: 'Lime 200 pen',
 					color: 'var(--ck-highlight-marker-lime-200)',
@@ -2565,14 +2565,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'lim00Marker',
+					model: 'lime300Marker',
 					class: 'marker-lime-300',
 					title: 'Lime 300 marker',
 					color: 'var(--ck-highlight-marker-lime-300)',
 					type: 'marker'
 				},
 				{
-					model: 'lim00Pen',
+					model: 'lime300Pen',
 					class: 'pen-lime-300',
 					title: 'Lime 300 pen',
 					color: 'var(--ck-highlight-marker-lime-300)',
@@ -2580,14 +2580,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'lim00Marker',
+					model: 'lime400Marker',
 					class: 'marker-lime-400',
 					title: 'Lime 400 marker',
 					color: 'var(--ck-highlight-marker-lime-400)',
 					type: 'marker'
 				},
 				{
-					model: 'lim00Pen',
+					model: 'lime400Pen',
 					class: 'pen-lime-400',
 					title: 'Lime 400 pen',
 					color: 'var(--ck-highlight-marker-lime-400)',
@@ -2595,14 +2595,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'lim00Marker',
+					model: 'lime500Marker',
 					class: 'marker-lime-500',
 					title: 'Lime 500 marker',
 					color: 'var(--ck-highlight-marker-lime-500)',
 					type: 'marker'
 				},
 				{
-					model: 'lim00Pen',
+					model: 'lime500Pen',
 					class: 'pen-lime-500',
 					title: 'Lime 500 pen',
 					color: 'var(--ck-highlight-marker-lime-500)',
@@ -2610,14 +2610,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'lim00Marker',
+					model: 'lime600Marker',
 					class: 'marker-lime-600',
 					title: 'Lime 600 marker',
 					color: 'var(--ck-highlight-marker-lime-600)',
 					type: 'marker'
 				},
 				{
-					model: 'lim00Pen',
+					model: 'lime600Pen',
 					class: 'pen-lime-600',
 					title: 'Lime 600 pen',
 					color: 'var(--ck-highlight-marker-lime-600)',
@@ -2625,14 +2625,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'lim00Marker',
+					model: 'lime700Marker',
 					class: 'marker-lime-700',
 					title: 'Lime 700 marker',
 					color: 'var(--ck-highlight-marker-lime-700)',
 					type: 'marker'
 				},
 				{
-					model: 'lim00Pen',
+					model: 'lime700Pen',
 					class: 'pen-lime-700',
 					title: 'Lime 700 pen',
 					color: 'var(--ck-highlight-marker-lime-700)',
@@ -2640,14 +2640,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'lim00Marker',
+					model: 'lime800Marker',
 					class: 'marker-lime-800',
 					title: 'Lime 800 marker',
 					color: 'var(--ck-highlight-marker-lime-800)',
 					type: 'marker'
 				},
 				{
-					model: 'lim00Pen',
+					model: 'lime800Pen',
 					class: 'pen-lime-800',
 					title: 'Lime 800 pen',
 					color: 'var(--ck-highlight-marker-lime-800)',
@@ -2655,14 +2655,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'lim00Marker',
+					model: 'lime900Marker',
 					class: 'marker-lime-900',
 					title: 'Lime 900 marker',
 					color: 'var(--ck-highlight-marker-lime-900)',
 					type: 'marker'
 				},
 				{
-					model: 'lim00Pen',
+					model: 'lime900Pen',
 					class: 'pen-lime-900',
 					title: 'Lime 900 pen',
 					color: 'var(--ck-highlight-marker-lime-900)',
@@ -2670,61 +2670,61 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'lim100Marker',
+					model: 'limeA100Marker',
 					class: 'marker-lime-a100',
-					title: 'Lime a100 marker',
+					title: 'Lime A100 marker',
 					color: 'var(--ck-highlight-marker-lime-a100)',
 					type: 'marker'
 				},
 				{
-					model: 'lim100Pen',
+					model: 'limeA100Pen',
 					class: 'pen-lime-a100',
-					title: 'Lime a100 pen',
+					title: 'Lime A100 pen',
 					color: 'var(--ck-highlight-marker-lime-a100)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'lim200Marker',
+					model: 'limeA200Marker',
 					class: 'marker-lime-a200',
-					title: 'Lime a200 marker',
+					title: 'Lime A200 marker',
 					color: 'var(--ck-highlight-marker-lime-a200)',
 					type: 'marker'
 				},
 				{
-					model: 'lim200Pen',
+					model: 'limeA200Pen',
 					class: 'pen-lime-a200',
-					title: 'Lime a200 pen',
+					title: 'Lime A200 pen',
 					color: 'var(--ck-highlight-marker-lime-a200)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'lim400Marker',
+					model: 'limeA400Marker',
 					class: 'marker-lime-a400',
-					title: 'Lime a400 marker',
+					title: 'Lime A400 marker',
 					color: 'var(--ck-highlight-marker-lime-a400)',
 					type: 'marker'
 				},
 				{
-					model: 'lim400Pen',
+					model: 'limeA400Pen',
 					class: 'pen-lime-a400',
-					title: 'Lime a400 pen',
+					title: 'Lime A400 pen',
 					color: 'var(--ck-highlight-marker-lime-a400)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'lim700Marker',
+					model: 'limeA700Marker',
 					class: 'marker-lime-a700',
-					title: 'Lime a700 marker',
+					title: 'Lime A700 marker',
 					color: 'var(--ck-highlight-marker-lime-a700)',
 					type: 'marker'
 				},
 				{
-					model: 'lim700Pen',
+					model: 'limeA700Pen',
 					class: 'pen-lime-a700',
-					title: 'Lime a700 pen',
+					title: 'Lime A700 pen',
 					color: 'var(--ck-highlight-marker-lime-a700)',
 					type: 'pen'
 				},
@@ -2745,14 +2745,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'yello0Marker',
+					model: 'yellow50Marker',
 					class: 'marker-yellow-50',
 					title: 'Yellow 50 marker',
 					color: 'var(--ck-highlight-marker-yellow-50)',
 					type: 'marker'
 				},
 				{
-					model: 'yello0Pen',
+					model: 'yellow50Pen',
 					class: 'pen-yellow-50',
 					title: 'Yellow 50 pen',
 					color: 'var(--ck-highlight-marker-yellow-50)',
@@ -2760,14 +2760,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'yello00Marker',
+					model: 'yellow100Marker',
 					class: 'marker-yellow-100',
 					title: 'Yellow 100 marker',
 					color: 'var(--ck-highlight-marker-yellow-100)',
 					type: 'marker'
 				},
 				{
-					model: 'yello00Pen',
+					model: 'yellow100Pen',
 					class: 'pen-yellow-100',
 					title: 'Yellow 100 pen',
 					color: 'var(--ck-highlight-marker-yellow-100)',
@@ -2775,14 +2775,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'yello00Marker',
+					model: 'yellow200Marker',
 					class: 'marker-yellow-200',
 					title: 'Yellow 200 marker',
 					color: 'var(--ck-highlight-marker-yellow-200)',
 					type: 'marker'
 				},
 				{
-					model: 'yello00Pen',
+					model: 'yellow200Pen',
 					class: 'pen-yellow-200',
 					title: 'Yellow 200 pen',
 					color: 'var(--ck-highlight-marker-yellow-200)',
@@ -2790,14 +2790,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'yello00Marker',
+					model: 'yellow300Marker',
 					class: 'marker-yellow-300',
 					title: 'Yellow 300 marker',
 					color: 'var(--ck-highlight-marker-yellow-300)',
 					type: 'marker'
 				},
 				{
-					model: 'yello00Pen',
+					model: 'yellow300Pen',
 					class: 'pen-yellow-300',
 					title: 'Yellow 300 pen',
 					color: 'var(--ck-highlight-marker-yellow-300)',
@@ -2805,14 +2805,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'yello00Marker',
+					model: 'yellow400Marker',
 					class: 'marker-yellow-400',
 					title: 'Yellow 400 marker',
 					color: 'var(--ck-highlight-marker-yellow-400)',
 					type: 'marker'
 				},
 				{
-					model: 'yello00Pen',
+					model: 'yellow400Pen',
 					class: 'pen-yellow-400',
 					title: 'Yellow 400 pen',
 					color: 'var(--ck-highlight-marker-yellow-400)',
@@ -2820,14 +2820,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'yello00Marker',
+					model: 'yellow500Marker',
 					class: 'marker-yellow-500',
 					title: 'Yellow 500 marker',
 					color: 'var(--ck-highlight-marker-yellow-500)',
 					type: 'marker'
 				},
 				{
-					model: 'yello00Pen',
+					model: 'yellow500Pen',
 					class: 'pen-yellow-500',
 					title: 'Yellow 500 pen',
 					color: 'var(--ck-highlight-marker-yellow-500)',
@@ -2835,14 +2835,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'yello00Marker',
+					model: 'yellow600Marker',
 					class: 'marker-yellow-600',
 					title: 'Yellow 600 marker',
 					color: 'var(--ck-highlight-marker-yellow-600)',
 					type: 'marker'
 				},
 				{
-					model: 'yello00Pen',
+					model: 'yellow600Pen',
 					class: 'pen-yellow-600',
 					title: 'Yellow 600 pen',
 					color: 'var(--ck-highlight-marker-yellow-600)',
@@ -2850,14 +2850,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'yello00Marker',
+					model: 'yellow700Marker',
 					class: 'marker-yellow-700',
 					title: 'Yellow 700 marker',
 					color: 'var(--ck-highlight-marker-yellow-700)',
 					type: 'marker'
 				},
 				{
-					model: 'yello00Pen',
+					model: 'yellow700Pen',
 					class: 'pen-yellow-700',
 					title: 'Yellow 700 pen',
 					color: 'var(--ck-highlight-marker-yellow-700)',
@@ -2865,14 +2865,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'yello00Marker',
+					model: 'yellow800Marker',
 					class: 'marker-yellow-800',
 					title: 'Yellow 800 marker',
 					color: 'var(--ck-highlight-marker-yellow-800)',
 					type: 'marker'
 				},
 				{
-					model: 'yello00Pen',
+					model: 'yellow800Pen',
 					class: 'pen-yellow-800',
 					title: 'Yellow 800 pen',
 					color: 'var(--ck-highlight-marker-yellow-800)',
@@ -2880,14 +2880,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'yello00Marker',
+					model: 'yellow900Marker',
 					class: 'marker-yellow-900',
 					title: 'Yellow 900 marker',
 					color: 'var(--ck-highlight-marker-yellow-900)',
 					type: 'marker'
 				},
 				{
-					model: 'yello00Pen',
+					model: 'yellow900Pen',
 					class: 'pen-yellow-900',
 					title: 'Yellow 900 pen',
 					color: 'var(--ck-highlight-marker-yellow-900)',
@@ -2895,61 +2895,61 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'yello100Marker',
+					model: 'yellowA100Marker',
 					class: 'marker-yellow-a100',
-					title: 'Yellow a100 marker',
+					title: 'Yellow A100 marker',
 					color: 'var(--ck-highlight-marker-yellow-a100)',
 					type: 'marker'
 				},
 				{
-					model: 'yello100Pen',
+					model: 'yellowA100Pen',
 					class: 'pen-yellow-a100',
-					title: 'Yellow a100 pen',
+					title: 'Yellow A100 pen',
 					color: 'var(--ck-highlight-marker-yellow-a100)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'yello200Marker',
+					model: 'yellowA200Marker',
 					class: 'marker-yellow-a200',
-					title: 'Yellow a200 marker',
+					title: 'Yellow A200 marker',
 					color: 'var(--ck-highlight-marker-yellow-a200)',
 					type: 'marker'
 				},
 				{
-					model: 'yello200Pen',
+					model: 'yellowA200Pen',
 					class: 'pen-yellow-a200',
-					title: 'Yellow a200 pen',
+					title: 'Yellow A200 pen',
 					color: 'var(--ck-highlight-marker-yellow-a200)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'yello400Marker',
+					model: 'yellowA400Marker',
 					class: 'marker-yellow-a400',
-					title: 'Yellow a400 marker',
+					title: 'Yellow A400 marker',
 					color: 'var(--ck-highlight-marker-yellow-a400)',
 					type: 'marker'
 				},
 				{
-					model: 'yello400Pen',
+					model: 'yellowA400Pen',
 					class: 'pen-yellow-a400',
-					title: 'Yellow a400 pen',
+					title: 'Yellow A400 pen',
 					color: 'var(--ck-highlight-marker-yellow-a400)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'yello700Marker',
+					model: 'yellowA700Marker',
 					class: 'marker-yellow-a700',
-					title: 'Yellow a700 marker',
+					title: 'Yellow A700 marker',
 					color: 'var(--ck-highlight-marker-yellow-a700)',
 					type: 'marker'
 				},
 				{
-					model: 'yello700Pen',
+					model: 'yellowA700Pen',
 					class: 'pen-yellow-a700',
-					title: 'Yellow a700 pen',
+					title: 'Yellow A700 pen',
 					color: 'var(--ck-highlight-marker-yellow-a700)',
 					type: 'pen'
 				},
@@ -2970,14 +2970,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'ambe0Marker',
+					model: 'amber50Marker',
 					class: 'marker-amber-50',
 					title: 'Amber 50 marker',
 					color: 'var(--ck-highlight-marker-amber-50)',
 					type: 'marker'
 				},
 				{
-					model: 'ambe0Pen',
+					model: 'amber50Pen',
 					class: 'pen-amber-50',
 					title: 'Amber 50 pen',
 					color: 'var(--ck-highlight-marker-amber-50)',
@@ -2985,14 +2985,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'ambe00Marker',
+					model: 'amber100Marker',
 					class: 'marker-amber-100',
 					title: 'Amber 100 marker',
 					color: 'var(--ck-highlight-marker-amber-100)',
 					type: 'marker'
 				},
 				{
-					model: 'ambe00Pen',
+					model: 'amber100Pen',
 					class: 'pen-amber-100',
 					title: 'Amber 100 pen',
 					color: 'var(--ck-highlight-marker-amber-100)',
@@ -3000,14 +3000,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'ambe00Marker',
+					model: 'amber200Marker',
 					class: 'marker-amber-200',
 					title: 'Amber 200 marker',
 					color: 'var(--ck-highlight-marker-amber-200)',
 					type: 'marker'
 				},
 				{
-					model: 'ambe00Pen',
+					model: 'amber200Pen',
 					class: 'pen-amber-200',
 					title: 'Amber 200 pen',
 					color: 'var(--ck-highlight-marker-amber-200)',
@@ -3015,14 +3015,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'ambe00Marker',
+					model: 'amber300Marker',
 					class: 'marker-amber-300',
 					title: 'Amber 300 marker',
 					color: 'var(--ck-highlight-marker-amber-300)',
 					type: 'marker'
 				},
 				{
-					model: 'ambe00Pen',
+					model: 'amber300Pen',
 					class: 'pen-amber-300',
 					title: 'Amber 300 pen',
 					color: 'var(--ck-highlight-marker-amber-300)',
@@ -3030,14 +3030,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'ambe00Marker',
+					model: 'amber400Marker',
 					class: 'marker-amber-400',
 					title: 'Amber 400 marker',
 					color: 'var(--ck-highlight-marker-amber-400)',
 					type: 'marker'
 				},
 				{
-					model: 'ambe00Pen',
+					model: 'amber400Pen',
 					class: 'pen-amber-400',
 					title: 'Amber 400 pen',
 					color: 'var(--ck-highlight-marker-amber-400)',
@@ -3045,14 +3045,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'ambe00Marker',
+					model: 'amber500Marker',
 					class: 'marker-amber-500',
 					title: 'Amber 500 marker',
 					color: 'var(--ck-highlight-marker-amber-500)',
 					type: 'marker'
 				},
 				{
-					model: 'ambe00Pen',
+					model: 'amber500Pen',
 					class: 'pen-amber-500',
 					title: 'Amber 500 pen',
 					color: 'var(--ck-highlight-marker-amber-500)',
@@ -3060,14 +3060,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'ambe00Marker',
+					model: 'amber600Marker',
 					class: 'marker-amber-600',
 					title: 'Amber 600 marker',
 					color: 'var(--ck-highlight-marker-amber-600)',
 					type: 'marker'
 				},
 				{
-					model: 'ambe00Pen',
+					model: 'amber600Pen',
 					class: 'pen-amber-600',
 					title: 'Amber 600 pen',
 					color: 'var(--ck-highlight-marker-amber-600)',
@@ -3075,14 +3075,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'ambe00Marker',
+					model: 'amber700Marker',
 					class: 'marker-amber-700',
 					title: 'Amber 700 marker',
 					color: 'var(--ck-highlight-marker-amber-700)',
 					type: 'marker'
 				},
 				{
-					model: 'ambe00Pen',
+					model: 'amber700Pen',
 					class: 'pen-amber-700',
 					title: 'Amber 700 pen',
 					color: 'var(--ck-highlight-marker-amber-700)',
@@ -3090,14 +3090,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'ambe00Marker',
+					model: 'amber800Marker',
 					class: 'marker-amber-800',
 					title: 'Amber 800 marker',
 					color: 'var(--ck-highlight-marker-amber-800)',
 					type: 'marker'
 				},
 				{
-					model: 'ambe00Pen',
+					model: 'amber800Pen',
 					class: 'pen-amber-800',
 					title: 'Amber 800 pen',
 					color: 'var(--ck-highlight-marker-amber-800)',
@@ -3105,14 +3105,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'ambe00Marker',
+					model: 'amber900Marker',
 					class: 'marker-amber-900',
 					title: 'Amber 900 marker',
 					color: 'var(--ck-highlight-marker-amber-900)',
 					type: 'marker'
 				},
 				{
-					model: 'ambe00Pen',
+					model: 'amber900Pen',
 					class: 'pen-amber-900',
 					title: 'Amber 900 pen',
 					color: 'var(--ck-highlight-marker-amber-900)',
@@ -3120,61 +3120,61 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'ambe100Marker',
+					model: 'amberA100Marker',
 					class: 'marker-amber-a100',
-					title: 'Amber a100 marker',
+					title: 'Amber A100 marker',
 					color: 'var(--ck-highlight-marker-amber-a100)',
 					type: 'marker'
 				},
 				{
-					model: 'ambe100Pen',
+					model: 'amberA100Pen',
 					class: 'pen-amber-a100',
-					title: 'Amber a100 pen',
+					title: 'Amber A100 pen',
 					color: 'var(--ck-highlight-marker-amber-a100)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'ambe200Marker',
+					model: 'amberA200Marker',
 					class: 'marker-amber-a200',
-					title: 'Amber a200 marker',
+					title: 'Amber A200 marker',
 					color: 'var(--ck-highlight-marker-amber-a200)',
 					type: 'marker'
 				},
 				{
-					model: 'ambe200Pen',
+					model: 'amberA200Pen',
 					class: 'pen-amber-a200',
-					title: 'Amber a200 pen',
+					title: 'Amber A200 pen',
 					color: 'var(--ck-highlight-marker-amber-a200)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'ambe400Marker',
+					model: 'amberA400Marker',
 					class: 'marker-amber-a400',
-					title: 'Amber a400 marker',
+					title: 'Amber A400 marker',
 					color: 'var(--ck-highlight-marker-amber-a400)',
 					type: 'marker'
 				},
 				{
-					model: 'ambe400Pen',
+					model: 'amberA400Pen',
 					class: 'pen-amber-a400',
-					title: 'Amber a400 pen',
+					title: 'Amber A400 pen',
 					color: 'var(--ck-highlight-marker-amber-a400)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'ambe700Marker',
+					model: 'amberA700Marker',
 					class: 'marker-amber-a700',
-					title: 'Amber a700 marker',
+					title: 'Amber A700 marker',
 					color: 'var(--ck-highlight-marker-amber-a700)',
 					type: 'marker'
 				},
 				{
-					model: 'ambe700Pen',
+					model: 'amberA700Pen',
 					class: 'pen-amber-a700',
-					title: 'Amber a700 pen',
+					title: 'Amber A700 pen',
 					color: 'var(--ck-highlight-marker-amber-a700)',
 					type: 'pen'
 				},
@@ -3195,14 +3195,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'orang0Marker',
+					model: 'orange50Marker',
 					class: 'marker-orange-50',
 					title: 'Orange 50 marker',
 					color: 'var(--ck-highlight-marker-orange-50)',
 					type: 'marker'
 				},
 				{
-					model: 'orang0Pen',
+					model: 'orange50Pen',
 					class: 'pen-orange-50',
 					title: 'Orange 50 pen',
 					color: 'var(--ck-highlight-marker-orange-50)',
@@ -3210,14 +3210,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'orang00Marker',
+					model: 'orange100Marker',
 					class: 'marker-orange-100',
 					title: 'Orange 100 marker',
 					color: 'var(--ck-highlight-marker-orange-100)',
 					type: 'marker'
 				},
 				{
-					model: 'orang00Pen',
+					model: 'orange100Pen',
 					class: 'pen-orange-100',
 					title: 'Orange 100 pen',
 					color: 'var(--ck-highlight-marker-orange-100)',
@@ -3225,14 +3225,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'orang00Marker',
+					model: 'orange200Marker',
 					class: 'marker-orange-200',
 					title: 'Orange 200 marker',
 					color: 'var(--ck-highlight-marker-orange-200)',
 					type: 'marker'
 				},
 				{
-					model: 'orang00Pen',
+					model: 'orange200Pen',
 					class: 'pen-orange-200',
 					title: 'Orange 200 pen',
 					color: 'var(--ck-highlight-marker-orange-200)',
@@ -3240,14 +3240,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'orang00Marker',
+					model: 'orange300Marker',
 					class: 'marker-orange-300',
 					title: 'Orange 300 marker',
 					color: 'var(--ck-highlight-marker-orange-300)',
 					type: 'marker'
 				},
 				{
-					model: 'orang00Pen',
+					model: 'orange300Pen',
 					class: 'pen-orange-300',
 					title: 'Orange 300 pen',
 					color: 'var(--ck-highlight-marker-orange-300)',
@@ -3255,14 +3255,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'orang00Marker',
+					model: 'orange400Marker',
 					class: 'marker-orange-400',
 					title: 'Orange 400 marker',
 					color: 'var(--ck-highlight-marker-orange-400)',
 					type: 'marker'
 				},
 				{
-					model: 'orang00Pen',
+					model: 'orange400Pen',
 					class: 'pen-orange-400',
 					title: 'Orange 400 pen',
 					color: 'var(--ck-highlight-marker-orange-400)',
@@ -3270,14 +3270,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'orang00Marker',
+					model: 'orange500Marker',
 					class: 'marker-orange-500',
 					title: 'Orange 500 marker',
 					color: 'var(--ck-highlight-marker-orange-500)',
 					type: 'marker'
 				},
 				{
-					model: 'orang00Pen',
+					model: 'orange500Pen',
 					class: 'pen-orange-500',
 					title: 'Orange 500 pen',
 					color: 'var(--ck-highlight-marker-orange-500)',
@@ -3285,14 +3285,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'orang00Marker',
+					model: 'orange600Marker',
 					class: 'marker-orange-600',
 					title: 'Orange 600 marker',
 					color: 'var(--ck-highlight-marker-orange-600)',
 					type: 'marker'
 				},
 				{
-					model: 'orang00Pen',
+					model: 'orange600Pen',
 					class: 'pen-orange-600',
 					title: 'Orange 600 pen',
 					color: 'var(--ck-highlight-marker-orange-600)',
@@ -3300,14 +3300,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'orang00Marker',
+					model: 'orange700Marker',
 					class: 'marker-orange-700',
 					title: 'Orange 700 marker',
 					color: 'var(--ck-highlight-marker-orange-700)',
 					type: 'marker'
 				},
 				{
-					model: 'orang00Pen',
+					model: 'orange700Pen',
 					class: 'pen-orange-700',
 					title: 'Orange 700 pen',
 					color: 'var(--ck-highlight-marker-orange-700)',
@@ -3315,14 +3315,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'orang00Marker',
+					model: 'orange800Marker',
 					class: 'marker-orange-800',
 					title: 'Orange 800 marker',
 					color: 'var(--ck-highlight-marker-orange-800)',
 					type: 'marker'
 				},
 				{
-					model: 'orang00Pen',
+					model: 'orange800Pen',
 					class: 'pen-orange-800',
 					title: 'Orange 800 pen',
 					color: 'var(--ck-highlight-marker-orange-800)',
@@ -3330,14 +3330,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'orang00Marker',
+					model: 'orange900Marker',
 					class: 'marker-orange-900',
 					title: 'Orange 900 marker',
 					color: 'var(--ck-highlight-marker-orange-900)',
 					type: 'marker'
 				},
 				{
-					model: 'orang00Pen',
+					model: 'orange900Pen',
 					class: 'pen-orange-900',
 					title: 'Orange 900 pen',
 					color: 'var(--ck-highlight-marker-orange-900)',
@@ -3345,286 +3345,286 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'orang100Marker',
+					model: 'orangeA100Marker',
 					class: 'marker-orange-a100',
-					title: 'Orange a100 marker',
+					title: 'Orange A100 marker',
 					color: 'var(--ck-highlight-marker-orange-a100)',
 					type: 'marker'
 				},
 				{
-					model: 'orang100Pen',
+					model: 'orangeA100Pen',
 					class: 'pen-orange-a100',
-					title: 'Orange a100 pen',
+					title: 'Orange A100 pen',
 					color: 'var(--ck-highlight-marker-orange-a100)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'orang200Marker',
+					model: 'orangeA200Marker',
 					class: 'marker-orange-a200',
-					title: 'Orange a200 marker',
+					title: 'Orange A200 marker',
 					color: 'var(--ck-highlight-marker-orange-a200)',
 					type: 'marker'
 				},
 				{
-					model: 'orang200Pen',
+					model: 'orangeA200Pen',
 					class: 'pen-orange-a200',
-					title: 'Orange a200 pen',
+					title: 'Orange A200 pen',
 					color: 'var(--ck-highlight-marker-orange-a200)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'orang400Marker',
+					model: 'orangeA400Marker',
 					class: 'marker-orange-a400',
-					title: 'Orange a400 marker',
+					title: 'Orange A400 marker',
 					color: 'var(--ck-highlight-marker-orange-a400)',
 					type: 'marker'
 				},
 				{
-					model: 'orang400Pen',
+					model: 'orangeA400Pen',
 					class: 'pen-orange-a400',
-					title: 'Orange a400 pen',
+					title: 'Orange A400 pen',
 					color: 'var(--ck-highlight-marker-orange-a400)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'orang700Marker',
+					model: 'orangeA700Marker',
 					class: 'marker-orange-a700',
-					title: 'Orange a700 marker',
+					title: 'Orange A700 marker',
 					color: 'var(--ck-highlight-marker-orange-a700)',
 					type: 'marker'
 				},
 				{
-					model: 'orang700Pen',
+					model: 'orangeA700Pen',
 					class: 'pen-orange-a700',
-					title: 'Orange a700 pen',
+					title: 'Orange A700 pen',
 					color: 'var(--ck-highlight-marker-orange-a700)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'deerangeMarker',
+					model: 'deepOrangeMarker',
 					class: 'marker-deep-orange',
-					title: 'Deep orange marker',
+					title: 'Deep Orange marker',
 					color: 'var(--ck-highlight-marker-deep-orange)',
 					type: 'marker'
 				},
 				{
-					model: 'deerangePen',
+					model: 'deepOrangePen',
 					class: 'pen-deep-orange',
-					title: 'Deep orange pen',
+					title: 'Deep Orange pen',
 					color: 'var(--ck-highlight-marker-deep-orange)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'deerang0Marker',
+					model: 'deepOrange50Marker',
 					class: 'marker-deep-orange-50',
-					title: 'Deep orange 50 marker',
+					title: 'Deep Orange 50 marker',
 					color: 'var(--ck-highlight-marker-deep-orange-50)',
 					type: 'marker'
 				},
 				{
-					model: 'deerang0Pen',
+					model: 'deepOrange50Pen',
 					class: 'pen-deep-orange-50',
-					title: 'Deep orange 50 pen',
+					title: 'Deep Orange 50 pen',
 					color: 'var(--ck-highlight-marker-deep-orange-50)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'deerang00Marker',
+					model: 'deepOrange100Marker',
 					class: 'marker-deep-orange-100',
-					title: 'Deep orange 100 marker',
+					title: 'Deep Orange 100 marker',
 					color: 'var(--ck-highlight-marker-deep-orange-100)',
 					type: 'marker'
 				},
 				{
-					model: 'deerang00Pen',
+					model: 'deepOrange100Pen',
 					class: 'pen-deep-orange-100',
-					title: 'Deep orange 100 pen',
+					title: 'Deep Orange 100 pen',
 					color: 'var(--ck-highlight-marker-deep-orange-100)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'deerang00Marker',
+					model: 'deepOrange200Marker',
 					class: 'marker-deep-orange-200',
-					title: 'Deep orange 200 marker',
+					title: 'Deep Orange 200 marker',
 					color: 'var(--ck-highlight-marker-deep-orange-200)',
 					type: 'marker'
 				},
 				{
-					model: 'deerang00Pen',
+					model: 'deepOrange200Pen',
 					class: 'pen-deep-orange-200',
-					title: 'Deep orange 200 pen',
+					title: 'Deep Orange 200 pen',
 					color: 'var(--ck-highlight-marker-deep-orange-200)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'deerang00Marker',
+					model: 'deepOrange300Marker',
 					class: 'marker-deep-orange-300',
-					title: 'Deep orange 300 marker',
+					title: 'Deep Orange 300 marker',
 					color: 'var(--ck-highlight-marker-deep-orange-300)',
 					type: 'marker'
 				},
 				{
-					model: 'deerang00Pen',
+					model: 'deepOrange300Pen',
 					class: 'pen-deep-orange-300',
-					title: 'Deep orange 300 pen',
+					title: 'Deep Orange 300 pen',
 					color: 'var(--ck-highlight-marker-deep-orange-300)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'deerang00Marker',
+					model: 'deepOrange400Marker',
 					class: 'marker-deep-orange-400',
-					title: 'Deep orange 400 marker',
+					title: 'Deep Orange 400 marker',
 					color: 'var(--ck-highlight-marker-deep-orange-400)',
 					type: 'marker'
 				},
 				{
-					model: 'deerang00Pen',
+					model: 'deepOrange400Pen',
 					class: 'pen-deep-orange-400',
-					title: 'Deep orange 400 pen',
+					title: 'Deep Orange 400 pen',
 					color: 'var(--ck-highlight-marker-deep-orange-400)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'deerang00Marker',
+					model: 'deepOrange500Marker',
 					class: 'marker-deep-orange-500',
-					title: 'Deep orange 500 marker',
+					title: 'Deep Orange 500 marker',
 					color: 'var(--ck-highlight-marker-deep-orange-500)',
 					type: 'marker'
 				},
 				{
-					model: 'deerang00Pen',
+					model: 'deepOrange500Pen',
 					class: 'pen-deep-orange-500',
-					title: 'Deep orange 500 pen',
+					title: 'Deep Orange 500 pen',
 					color: 'var(--ck-highlight-marker-deep-orange-500)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'deerang00Marker',
+					model: 'deepOrange600Marker',
 					class: 'marker-deep-orange-600',
-					title: 'Deep orange 600 marker',
+					title: 'Deep Orange 600 marker',
 					color: 'var(--ck-highlight-marker-deep-orange-600)',
 					type: 'marker'
 				},
 				{
-					model: 'deerang00Pen',
+					model: 'deepOrange600Pen',
 					class: 'pen-deep-orange-600',
-					title: 'Deep orange 600 pen',
+					title: 'Deep Orange 600 pen',
 					color: 'var(--ck-highlight-marker-deep-orange-600)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'deerang00Marker',
+					model: 'deepOrange700Marker',
 					class: 'marker-deep-orange-700',
-					title: 'Deep orange 700 marker',
+					title: 'Deep Orange 700 marker',
 					color: 'var(--ck-highlight-marker-deep-orange-700)',
 					type: 'marker'
 				},
 				{
-					model: 'deerang00Pen',
+					model: 'deepOrange700Pen',
 					class: 'pen-deep-orange-700',
-					title: 'Deep orange 700 pen',
+					title: 'Deep Orange 700 pen',
 					color: 'var(--ck-highlight-marker-deep-orange-700)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'deerang00Marker',
+					model: 'deepOrange800Marker',
 					class: 'marker-deep-orange-800',
-					title: 'Deep orange 800 marker',
+					title: 'Deep Orange 800 marker',
 					color: 'var(--ck-highlight-marker-deep-orange-800)',
 					type: 'marker'
 				},
 				{
-					model: 'deerang00Pen',
+					model: 'deepOrange800Pen',
 					class: 'pen-deep-orange-800',
-					title: 'Deep orange 800 pen',
+					title: 'Deep Orange 800 pen',
 					color: 'var(--ck-highlight-marker-deep-orange-800)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'deerang00Marker',
+					model: 'deepOrange900Marker',
 					class: 'marker-deep-orange-900',
-					title: 'Deep orange 900 marker',
+					title: 'Deep Orange 900 marker',
 					color: 'var(--ck-highlight-marker-deep-orange-900)',
 					type: 'marker'
 				},
 				{
-					model: 'deerang00Pen',
+					model: 'deepOrange900Pen',
 					class: 'pen-deep-orange-900',
-					title: 'Deep orange 900 pen',
+					title: 'Deep Orange 900 pen',
 					color: 'var(--ck-highlight-marker-deep-orange-900)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'deerang100Marker',
+					model: 'deepOrangeA100Marker',
 					class: 'marker-deep-orange-a100',
-					title: 'Deep orange a100 marker',
+					title: 'Deep Orange A100 marker',
 					color: 'var(--ck-highlight-marker-deep-orange-a100)',
 					type: 'marker'
 				},
 				{
-					model: 'deerang100Pen',
+					model: 'deepOrangeA100Pen',
 					class: 'pen-deep-orange-a100',
-					title: 'Deep orange a100 pen',
+					title: 'Deep Orange A100 pen',
 					color: 'var(--ck-highlight-marker-deep-orange-a100)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'deerang200Marker',
+					model: 'deepOrangeA200Marker',
 					class: 'marker-deep-orange-a200',
-					title: 'Deep orange a200 marker',
+					title: 'Deep Orange A200 marker',
 					color: 'var(--ck-highlight-marker-deep-orange-a200)',
 					type: 'marker'
 				},
 				{
-					model: 'deerang200Pen',
+					model: 'deepOrangeA200Pen',
 					class: 'pen-deep-orange-a200',
-					title: 'Deep orange a200 pen',
+					title: 'Deep Orange A200 pen',
 					color: 'var(--ck-highlight-marker-deep-orange-a200)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'deerang400Marker',
+					model: 'deepOrangeA400Marker',
 					class: 'marker-deep-orange-a400',
-					title: 'Deep orange a400 marker',
+					title: 'Deep Orange A400 marker',
 					color: 'var(--ck-highlight-marker-deep-orange-a400)',
 					type: 'marker'
 				},
 				{
-					model: 'deerang400Pen',
+					model: 'deepOrangeA400Pen',
 					class: 'pen-deep-orange-a400',
-					title: 'Deep orange a400 pen',
+					title: 'Deep Orange A400 pen',
 					color: 'var(--ck-highlight-marker-deep-orange-a400)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'deerang700Marker',
+					model: 'deepOrangeA700Marker',
 					class: 'marker-deep-orange-a700',
-					title: 'Deep orange a700 marker',
+					title: 'Deep Orange A700 marker',
 					color: 'var(--ck-highlight-marker-deep-orange-a700)',
 					type: 'marker'
 				},
 				{
-					model: 'deerang700Pen',
+					model: 'deepOrangeA700Pen',
 					class: 'pen-deep-orange-a700',
-					title: 'Deep orange a700 pen',
+					title: 'Deep Orange A700 pen',
 					color: 'var(--ck-highlight-marker-deep-orange-a700)',
 					type: 'pen'
 				},
@@ -3645,14 +3645,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'brow0Marker',
+					model: 'brown50Marker',
 					class: 'marker-brown-50',
 					title: 'Brown 50 marker',
 					color: 'var(--ck-highlight-marker-brown-50)',
 					type: 'marker'
 				},
 				{
-					model: 'brow0Pen',
+					model: 'brown50Pen',
 					class: 'pen-brown-50',
 					title: 'Brown 50 pen',
 					color: 'var(--ck-highlight-marker-brown-50)',
@@ -3660,14 +3660,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'brow00Marker',
+					model: 'brown100Marker',
 					class: 'marker-brown-100',
 					title: 'Brown 100 marker',
 					color: 'var(--ck-highlight-marker-brown-100)',
 					type: 'marker'
 				},
 				{
-					model: 'brow00Pen',
+					model: 'brown100Pen',
 					class: 'pen-brown-100',
 					title: 'Brown 100 pen',
 					color: 'var(--ck-highlight-marker-brown-100)',
@@ -3675,14 +3675,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'brow00Marker',
+					model: 'brown200Marker',
 					class: 'marker-brown-200',
 					title: 'Brown 200 marker',
 					color: 'var(--ck-highlight-marker-brown-200)',
 					type: 'marker'
 				},
 				{
-					model: 'brow00Pen',
+					model: 'brown200Pen',
 					class: 'pen-brown-200',
 					title: 'Brown 200 pen',
 					color: 'var(--ck-highlight-marker-brown-200)',
@@ -3690,14 +3690,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'brow00Marker',
+					model: 'brown300Marker',
 					class: 'marker-brown-300',
 					title: 'Brown 300 marker',
 					color: 'var(--ck-highlight-marker-brown-300)',
 					type: 'marker'
 				},
 				{
-					model: 'brow00Pen',
+					model: 'brown300Pen',
 					class: 'pen-brown-300',
 					title: 'Brown 300 pen',
 					color: 'var(--ck-highlight-marker-brown-300)',
@@ -3705,14 +3705,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'brow00Marker',
+					model: 'brown400Marker',
 					class: 'marker-brown-400',
 					title: 'Brown 400 marker',
 					color: 'var(--ck-highlight-marker-brown-400)',
 					type: 'marker'
 				},
 				{
-					model: 'brow00Pen',
+					model: 'brown400Pen',
 					class: 'pen-brown-400',
 					title: 'Brown 400 pen',
 					color: 'var(--ck-highlight-marker-brown-400)',
@@ -3720,14 +3720,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'brow00Marker',
+					model: 'brown500Marker',
 					class: 'marker-brown-500',
 					title: 'Brown 500 marker',
 					color: 'var(--ck-highlight-marker-brown-500)',
 					type: 'marker'
 				},
 				{
-					model: 'brow00Pen',
+					model: 'brown500Pen',
 					class: 'pen-brown-500',
 					title: 'Brown 500 pen',
 					color: 'var(--ck-highlight-marker-brown-500)',
@@ -3735,14 +3735,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'brow00Marker',
+					model: 'brown600Marker',
 					class: 'marker-brown-600',
 					title: 'Brown 600 marker',
 					color: 'var(--ck-highlight-marker-brown-600)',
 					type: 'marker'
 				},
 				{
-					model: 'brow00Pen',
+					model: 'brown600Pen',
 					class: 'pen-brown-600',
 					title: 'Brown 600 pen',
 					color: 'var(--ck-highlight-marker-brown-600)',
@@ -3750,14 +3750,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'brow00Marker',
+					model: 'brown700Marker',
 					class: 'marker-brown-700',
 					title: 'Brown 700 marker',
 					color: 'var(--ck-highlight-marker-brown-700)',
 					type: 'marker'
 				},
 				{
-					model: 'brow00Pen',
+					model: 'brown700Pen',
 					class: 'pen-brown-700',
 					title: 'Brown 700 pen',
 					color: 'var(--ck-highlight-marker-brown-700)',
@@ -3765,14 +3765,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'brow00Marker',
+					model: 'brown800Marker',
 					class: 'marker-brown-800',
 					title: 'Brown 800 marker',
 					color: 'var(--ck-highlight-marker-brown-800)',
 					type: 'marker'
 				},
 				{
-					model: 'brow00Pen',
+					model: 'brown800Pen',
 					class: 'pen-brown-800',
 					title: 'Brown 800 pen',
 					color: 'var(--ck-highlight-marker-brown-800)',
@@ -3780,14 +3780,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'brow00Marker',
+					model: 'brown900Marker',
 					class: 'marker-brown-900',
 					title: 'Brown 900 marker',
 					color: 'var(--ck-highlight-marker-brown-900)',
 					type: 'marker'
 				},
 				{
-					model: 'brow00Pen',
+					model: 'brown900Pen',
 					class: 'pen-brown-900',
 					title: 'Brown 900 pen',
 					color: 'var(--ck-highlight-marker-brown-900)',
@@ -3810,14 +3810,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'gre0Marker',
+					model: 'grey50Marker',
 					class: 'marker-grey-50',
 					title: 'Grey 50 marker',
 					color: 'var(--ck-highlight-marker-grey-50)',
 					type: 'marker'
 				},
 				{
-					model: 'gre0Pen',
+					model: 'grey50Pen',
 					class: 'pen-grey-50',
 					title: 'Grey 50 pen',
 					color: 'var(--ck-highlight-marker-grey-50)',
@@ -3825,14 +3825,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'gre00Marker',
+					model: 'grey100Marker',
 					class: 'marker-grey-100',
 					title: 'Grey 100 marker',
 					color: 'var(--ck-highlight-marker-grey-100)',
 					type: 'marker'
 				},
 				{
-					model: 'gre00Pen',
+					model: 'grey100Pen',
 					class: 'pen-grey-100',
 					title: 'Grey 100 pen',
 					color: 'var(--ck-highlight-marker-grey-100)',
@@ -3840,14 +3840,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'gre00Marker',
+					model: 'grey200Marker',
 					class: 'marker-grey-200',
 					title: 'Grey 200 marker',
 					color: 'var(--ck-highlight-marker-grey-200)',
 					type: 'marker'
 				},
 				{
-					model: 'gre00Pen',
+					model: 'grey200Pen',
 					class: 'pen-grey-200',
 					title: 'Grey 200 pen',
 					color: 'var(--ck-highlight-marker-grey-200)',
@@ -3855,14 +3855,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'gre00Marker',
+					model: 'grey300Marker',
 					class: 'marker-grey-300',
 					title: 'Grey 300 marker',
 					color: 'var(--ck-highlight-marker-grey-300)',
 					type: 'marker'
 				},
 				{
-					model: 'gre00Pen',
+					model: 'grey300Pen',
 					class: 'pen-grey-300',
 					title: 'Grey 300 pen',
 					color: 'var(--ck-highlight-marker-grey-300)',
@@ -3870,14 +3870,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'gre00Marker',
+					model: 'grey400Marker',
 					class: 'marker-grey-400',
 					title: 'Grey 400 marker',
 					color: 'var(--ck-highlight-marker-grey-400)',
 					type: 'marker'
 				},
 				{
-					model: 'gre00Pen',
+					model: 'grey400Pen',
 					class: 'pen-grey-400',
 					title: 'Grey 400 pen',
 					color: 'var(--ck-highlight-marker-grey-400)',
@@ -3885,14 +3885,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'gre00Marker',
+					model: 'grey500Marker',
 					class: 'marker-grey-500',
 					title: 'Grey 500 marker',
 					color: 'var(--ck-highlight-marker-grey-500)',
 					type: 'marker'
 				},
 				{
-					model: 'gre00Pen',
+					model: 'grey500Pen',
 					class: 'pen-grey-500',
 					title: 'Grey 500 pen',
 					color: 'var(--ck-highlight-marker-grey-500)',
@@ -3900,14 +3900,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'gre00Marker',
+					model: 'grey600Marker',
 					class: 'marker-grey-600',
 					title: 'Grey 600 marker',
 					color: 'var(--ck-highlight-marker-grey-600)',
 					type: 'marker'
 				},
 				{
-					model: 'gre00Pen',
+					model: 'grey600Pen',
 					class: 'pen-grey-600',
 					title: 'Grey 600 pen',
 					color: 'var(--ck-highlight-marker-grey-600)',
@@ -3915,14 +3915,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'gre00Marker',
+					model: 'grey700Marker',
 					class: 'marker-grey-700',
 					title: 'Grey 700 marker',
 					color: 'var(--ck-highlight-marker-grey-700)',
 					type: 'marker'
 				},
 				{
-					model: 'gre00Pen',
+					model: 'grey700Pen',
 					class: 'pen-grey-700',
 					title: 'Grey 700 pen',
 					color: 'var(--ck-highlight-marker-grey-700)',
@@ -3930,14 +3930,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'gre00Marker',
+					model: 'grey800Marker',
 					class: 'marker-grey-800',
 					title: 'Grey 800 marker',
 					color: 'var(--ck-highlight-marker-grey-800)',
 					type: 'marker'
 				},
 				{
-					model: 'gre00Pen',
+					model: 'grey800Pen',
 					class: 'pen-grey-800',
 					title: 'Grey 800 pen',
 					color: 'var(--ck-highlight-marker-grey-800)',
@@ -3945,14 +3945,14 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'gre00Marker',
+					model: 'grey900Marker',
 					class: 'marker-grey-900',
 					title: 'Grey 900 marker',
 					color: 'var(--ck-highlight-marker-grey-900)',
 					type: 'marker'
 				},
 				{
-					model: 'gre00Pen',
+					model: 'grey900Pen',
 					class: 'pen-grey-900',
 					title: 'Grey 900 pen',
 					color: 'var(--ck-highlight-marker-grey-900)',
@@ -3960,166 +3960,166 @@ export default class HighlightEditing extends Plugin {
 				},
 			
 				{
-					model: 'blureyMarker',
+					model: 'blueGreyMarker',
 					class: 'marker-blue-grey',
-					title: 'Blue grey marker',
+					title: 'Blue Grey marker',
 					color: 'var(--ck-highlight-marker-blue-grey)',
 					type: 'marker'
 				},
 				{
-					model: 'blureyPen',
+					model: 'blueGreyPen',
 					class: 'pen-blue-grey',
-					title: 'Blue grey pen',
+					title: 'Blue Grey pen',
 					color: 'var(--ck-highlight-marker-blue-grey)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'blure0Marker',
+					model: 'blueGrey50Marker',
 					class: 'marker-blue-grey-50',
-					title: 'Blue grey 50 marker',
+					title: 'Blue Grey 50 marker',
 					color: 'var(--ck-highlight-marker-blue-grey-50)',
 					type: 'marker'
 				},
 				{
-					model: 'blure0Pen',
+					model: 'blueGrey50Pen',
 					class: 'pen-blue-grey-50',
-					title: 'Blue grey 50 pen',
+					title: 'Blue Grey 50 pen',
 					color: 'var(--ck-highlight-marker-blue-grey-50)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'blure00Marker',
+					model: 'blueGrey100Marker',
 					class: 'marker-blue-grey-100',
-					title: 'Blue grey 100 marker',
+					title: 'Blue Grey 100 marker',
 					color: 'var(--ck-highlight-marker-blue-grey-100)',
 					type: 'marker'
 				},
 				{
-					model: 'blure00Pen',
+					model: 'blueGrey100Pen',
 					class: 'pen-blue-grey-100',
-					title: 'Blue grey 100 pen',
+					title: 'Blue Grey 100 pen',
 					color: 'var(--ck-highlight-marker-blue-grey-100)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'blure00Marker',
+					model: 'blueGrey200Marker',
 					class: 'marker-blue-grey-200',
-					title: 'Blue grey 200 marker',
+					title: 'Blue Grey 200 marker',
 					color: 'var(--ck-highlight-marker-blue-grey-200)',
 					type: 'marker'
 				},
 				{
-					model: 'blure00Pen',
+					model: 'blueGrey200Pen',
 					class: 'pen-blue-grey-200',
-					title: 'Blue grey 200 pen',
+					title: 'Blue Grey 200 pen',
 					color: 'var(--ck-highlight-marker-blue-grey-200)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'blure00Marker',
+					model: 'blueGrey300Marker',
 					class: 'marker-blue-grey-300',
-					title: 'Blue grey 300 marker',
+					title: 'Blue Grey 300 marker',
 					color: 'var(--ck-highlight-marker-blue-grey-300)',
 					type: 'marker'
 				},
 				{
-					model: 'blure00Pen',
+					model: 'blueGrey300Pen',
 					class: 'pen-blue-grey-300',
-					title: 'Blue grey 300 pen',
+					title: 'Blue Grey 300 pen',
 					color: 'var(--ck-highlight-marker-blue-grey-300)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'blure00Marker',
+					model: 'blueGrey400Marker',
 					class: 'marker-blue-grey-400',
-					title: 'Blue grey 400 marker',
+					title: 'Blue Grey 400 marker',
 					color: 'var(--ck-highlight-marker-blue-grey-400)',
 					type: 'marker'
 				},
 				{
-					model: 'blure00Pen',
+					model: 'blueGrey400Pen',
 					class: 'pen-blue-grey-400',
-					title: 'Blue grey 400 pen',
+					title: 'Blue Grey 400 pen',
 					color: 'var(--ck-highlight-marker-blue-grey-400)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'blure00Marker',
+					model: 'blueGrey500Marker',
 					class: 'marker-blue-grey-500',
-					title: 'Blue grey 500 marker',
+					title: 'Blue Grey 500 marker',
 					color: 'var(--ck-highlight-marker-blue-grey-500)',
 					type: 'marker'
 				},
 				{
-					model: 'blure00Pen',
+					model: 'blueGrey500Pen',
 					class: 'pen-blue-grey-500',
-					title: 'Blue grey 500 pen',
+					title: 'Blue Grey 500 pen',
 					color: 'var(--ck-highlight-marker-blue-grey-500)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'blure00Marker',
+					model: 'blueGrey600Marker',
 					class: 'marker-blue-grey-600',
-					title: 'Blue grey 600 marker',
+					title: 'Blue Grey 600 marker',
 					color: 'var(--ck-highlight-marker-blue-grey-600)',
 					type: 'marker'
 				},
 				{
-					model: 'blure00Pen',
+					model: 'blueGrey600Pen',
 					class: 'pen-blue-grey-600',
-					title: 'Blue grey 600 pen',
+					title: 'Blue Grey 600 pen',
 					color: 'var(--ck-highlight-marker-blue-grey-600)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'blure00Marker',
+					model: 'blueGrey700Marker',
 					class: 'marker-blue-grey-700',
-					title: 'Blue grey 700 marker',
+					title: 'Blue Grey 700 marker',
 					color: 'var(--ck-highlight-marker-blue-grey-700)',
 					type: 'marker'
 				},
 				{
-					model: 'blure00Pen',
+					model: 'blueGrey700Pen',
 					class: 'pen-blue-grey-700',
-					title: 'Blue grey 700 pen',
+					title: 'Blue Grey 700 pen',
 					color: 'var(--ck-highlight-marker-blue-grey-700)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'blure00Marker',
+					model: 'blueGrey800Marker',
 					class: 'marker-blue-grey-800',
-					title: 'Blue grey 800 marker',
+					title: 'Blue Grey 800 marker',
 					color: 'var(--ck-highlight-marker-blue-grey-800)',
 					type: 'marker'
 				},
 				{
-					model: 'blure00Pen',
+					model: 'blueGrey800Pen',
 					class: 'pen-blue-grey-800',
-					title: 'Blue grey 800 pen',
+					title: 'Blue Grey 800 pen',
 					color: 'var(--ck-highlight-marker-blue-grey-800)',
 					type: 'pen'
 				},
 			
 				{
-					model: 'blure00Marker',
+					model: 'blueGrey900Marker',
 					class: 'marker-blue-grey-900',
-					title: 'Blue grey 900 marker',
+					title: 'Blue Grey 900 marker',
 					color: 'var(--ck-highlight-marker-blue-grey-900)',
 					type: 'marker'
 				},
 				{
-					model: 'blure00Pen',
+					model: 'blueGrey900Pen',
 					class: 'pen-blue-grey-900',
-					title: 'Blue grey 900 pen',
+					title: 'Blue Grey 900 pen',
 					color: 'var(--ck-highlight-marker-blue-grey-900)',
 					type: 'pen'
 				},

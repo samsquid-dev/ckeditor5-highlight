@@ -29,6 +29,7 @@ Licensed under the terms of [GNU General Public License Version 2 or later](http
 
 ## How use it
 
-first install python (tested with 3.7), jinja2 (2.10) and stringcase (1.2.0)
-then run followin command: `python color.py` then follow normal buid steps
+first install python (3.7), jinja2 (2.10)
+
+then run following command: `python color.py` after this follow normal buid steps
 

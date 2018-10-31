@@ -5,16 +5,34 @@ color_names = []
 
 for line in file.readlines():
     if len(line.strip()) > 0:  # skip empty lines
-        line = line.replace('\n','')
+        line = line.replace('\n', '')
         strs = line.split(':')
-        color_name = strs[0].replace(':','')
+        color_name = strs[0].replace(':', '')
         color_code = strs[1].strip()
         color_codes.append(color_code)
         color_names.append(color_name)
 
 
 from jinja2 import Environment, FileSystemLoader, select_autoescape
-from stringcase import camelcase, sentencecase
+
+
+def camelcase(inp):
+    inp = inp.replace(' ', '')
+    temp = inp.split('-')
+    ret = ''
+    for t in temp[1:]:
+        ret = ret+t.title()
+    return temp[0]+ret
+
+
+def sentencecase(inp):
+    inp = inp.replace(' ', '')
+    temp = inp.split('-')
+    ret = ''
+    for t in temp:
+        ret = ret+t.title()+' '
+    return ret[:-1]
+
 
 env = Environment(
     loader=FileSystemLoader('./templates'),
