@@ -5,6 +5,7 @@
 
 :root {
 	{% for item in zip(color_names, color_codes) %}--ck-highlight-marker-{{ item[0] }}: {{ item[1] }}
+	--ck-highlight-pen-{{ item[0] }}: {{ item[1] }}
 	{% endfor %}
 }
 
