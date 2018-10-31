@@ -12,6 +12,8 @@ CKEditor 5 highlight feature
 
 This package implements text highlight support for CKEditor 5.
 
+## Colors taken from [htmlcolorcodes.com](https://htmlcolorcodes.com/color-chart/web-safe-color-chart/)
+
 ## Demo
 
 Check out the [demo in the Highlight feature](https://ckeditor.com/docs/ckeditor5/latest/features/highlight.html#demo) guide.
@@ -23,3 +25,10 @@ See the [`@ckeditor/ckeditor5-highlight` package](https://ckeditor.com/docs/cked
 ## License
 
 Licensed under the terms of [GNU General Public License Version 2 or later](http://www.gnu.org/licenses/gpl.html). For full details about the license, please check the `LICENSE.md` file.
+
+
+## How use it
+
+first install python (tested with 3.7), jinja2 (2.10) and stringcase (1.2.0)
+then run followin command: `python color.py` then follow normal buid steps
+

@@ -1,0 +1,30 @@
+/*
+ * Copyright (c) 2003-2018, CKSource - Frederico Knabben. All rights reserved.
+ * For licensing, see LICENSE.md.
+ */
+
+:root {
+	{% for item in zip(color_names, color_codes) %}--ck-highlight-marker-{{ item[0] }}: {{ item[1] }}
+	{% endfor %}
+}
+
+@define-mixin highlight-marker-color $color {
+	.marker-$color {
+		background-color: var(--ck-highlight-marker-$color);
+	}
+}
+
+@define-mixin highlight-pen-color $color {
+	.pen-$color {
+		color: var(--ck-highlight-pen-$color);
+
+		/* Override default yellow background of `<mark>` from user agent stylesheet */
+		background-color: transparent;
+	}
+}
+
+{% for color_name in color_names %}
+@mixin highlight-marker-color {{ color_name }};
+@mixin highlight-pen-color {{ color_name }};
+{% endfor %}
+

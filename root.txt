@@ -1,0 +1,35 @@
+/*
+ * Copyright (c) 2003-2018, CKSource - Frederico Knabben. All rights reserved.
+ * For licensing, see LICENSE.md.
+ */
+
+:root {
+	
+	a:1
+	
+	b:2
+	
+}
+
+@define-mixin highlight-marker-color $color {
+	.marker-$color {
+		background-color: var(--ck-highlight-marker-$color);
+	}
+}
+
+@define-mixin highlight-pen-color $color {
+	.pen-$color {
+		color: var(--ck-highlight-pen-$color);
+
+		/* Override default yellow background of `<mark>` from user agent stylesheet */
+		background-color: transparent;
+	}
+}
+
+@mixin highlight-marker-color yellow;
+@mixin highlight-marker-color green;
+@mixin highlight-marker-color pink;
+@mixin highlight-marker-color blue;
+
+@mixin highlight-pen-color red;
+@mixin highlight-pen-color green;
